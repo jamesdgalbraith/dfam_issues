@@ -1,0 +1,790 @@
+gnl|CDD|400190	RVT_2	pfam07727	Reverse transcriptase (RNA-dependent DNA polymerase).  A reverse transcriptase gene is usually indicative of a mobile element such as a retrotransposon or retrovirus. Reverse transcriptases occur in a variety of mobile elements
+gnl|CDD|260004	RNase_HI_RT_Ty1	cd09272	Ty1/Copia family of RNase HI in long-term repeat retroelements.  Ribonuclease H (RNase H) enzymes are divided into two major families
+gnl|CDD|411202	transpos_IS481	NF033577	IS481 family transposase.
+gnl|CDD|372857	gag_pre-integrs	pfam13976	GAG-pre-integrase domain.  This domain is found associated with retroviral insertion elements and lies just upstream of the integrase region on the polyproteins.
+gnl|CDD|404992	Retrotran_gag_2	pfam14223	gag-polypeptide of LTR copia-type.  This family is found in Plants and fungi
+gnl|CDD|395538	rve	pfam00665	Integrase core domain.  Integrase mediates integration of a DNA copy of the viral genome into the host chromosome. Integrase is composed of three domains. The amino-terminal domain is a zinc binding domain pfam02022. This domain is the central catalytic domain. The carboxyl terminal domain that is a non-specific DNA binding domain pfam00552. The catalytic domain acts as an endonuclease when two nucleotides are removed from the 3' ends of the blunt-ended viral DNA made by reverse transcription. This domain also catalyzes the DNA strand transfer reaction of the 3' ends of the viral DNA to the 5' ends of the integration site.
+gnl|CDD|411153	transpos_IS3	NF033516	IS3 family transposase.
+gnl|CDD|259998	RNase_H_like	cd06222	Ribonuclease H-like superfamily
+gnl|CDD|404787	DUF4219	pfam13961	Domain of unknown function (DUF4219).  This domain is very short and is found at the N-terminal of many Gag-pol polyprotein and related proteins. There is a highly conserved YxxWxxxM sequence motif.
+gnl|CDD|260008	Rnase_HI_RT_non_LTR	cd09276	non-LTR RNase HI domain of reverse transcriptases.  Ribonuclease H (RNase H) is classified into two families
+gnl|CDD|404555	rve_3	pfam13683	Integrase core domain.
+gnl|CDD|223021	PHA03247	PHA03247	large tegument protein UL36; Provisional.
+gnl|CDD|282904	Herpes_BLLF1	pfam05109	Herpes virus major outer envelope glycoprotein (BLLF1).  This family consists of the BLLF1 viral late glycoprotein
+gnl|CDD|405008	Retrotran_gag_3	pfam14244	gag-polypeptide of LTR copia-type.  This family is found in Plants and fungi
+gnl|CDD|225361	Tra5	COG2801	Transposase and inactivated derivatives [DNA replication
+gnl|CDD|411384	Streccoc_I_II	NF033804	antigen I/II family LPXTG-anchored adhesin.  Members of the antigen I/II family are adhesins with a glucan-binding domain
+gnl|CDD|165527	PHA03269	PHA03269	envelope glycoprotein C; Provisional.
+gnl|CDD|237171	PRK12678	PRK12678	transcription termination factor Rho; Provisional.
+gnl|CDD|411193	transpos_IS30	NF033563	IS30 family transposase.
+gnl|CDD|222853	PHA02517	PHA02517	putative transposase OrfB; Reviewed.
+gnl|CDD|215530	PLN02980	PLN02980	2-oxoglutarate decarboxylase/ hydro-lyase/ magnesium ion binding  / thiamin pyrophosphate binding.
+gnl|CDD|395050	zf-CCHC	pfam00098	Zinc knuckle.  The zinc knuckle is a zinc binding motif composed of the the following CX2CX4HX4C where X can be any amino acid. The motifs are mostly from retroviral gag proteins (nucleocapsid). Prototype structure is from HIV. Also contains members involved in eukaryotic gene regulation
+gnl|CDD|197667	ZnF_C2HC	smart00343	zinc finger.
+gnl|CDD|173561	PTZ00368	PTZ00368	universal minicircle sequence binding protein (UMSBP); Provisional.
+gnl|CDD|367628	Retrotrans_gag	pfam03732	Retrotransposon gag protein.  Gag or Capsid-like proteins from LTR retrotransposons. There is a central motif QGXXEXXXXXFXXLXXH that is common to Retroviridae gag-proteins
+gnl|CDD|227414	AIR1	COG5082	Arginine methyltransferase-interacting protein
+gnl|CDD|225382	Tra8	COG2826	Transposase and inactivated derivatives
+gnl|CDD|404356	RVT_3	pfam13456	Reverse transcriptase-like.  This domain is found in plants and appears to be part of a retrotransposon.
+gnl|CDD|236090	PRK07764	PRK07764	DNA polymerase III subunits gamma and tau; Validated.
+gnl|CDD|237865	PRK14951	PRK14951	DNA polymerase III subunits gamma and tau; Provisional.
+gnl|CDD|237057	PRK12323	PRK12323	DNA polymerase III subunit gamma/tau.
+gnl|CDD|411490	pneumo_PspA	NF033930	pneumococcal surface protein A.  The pneumococcal surface protein proteins
+gnl|CDD|237030	kgd	PRK12270	multifunctional oxoglutarate decarboxylase/oxoglutarate dehydrogenase thiamine pyrophosphate-binding subunit/dihydrolipoyllysine-residue succinyltransferase subunit.
+gnl|CDD|223065	PHA03378	PHA03378	EBNA-3B; Provisional.
+gnl|CDD|237874	PRK14971	PRK14971	DNA polymerase III subunit gamma/tau.
+gnl|CDD|411414	MSCRAMM_ClfB	NF033845	MSCRAMM family adhesin clumping factor ClfB.  Clumping factor B is an MSCRAMM (Microbial Surface Components Recognizing Adhesive Matrix Molecules). Features of the sequence
+gnl|CDD|411345	gliding_GltJ	NF033761	adventurous gliding motility protein GltJ.  Adventurous gliding motility protein GltJ
+gnl|CDD|185628	PTZ00449	PTZ00449	104 kDa microneme/rhoptry antigen; Provisional.
+gnl|CDD|236776	PRK10856	PRK10856	cytoskeleton protein RodZ.
+gnl|CDD|411344	gliding_GltG	NF033760	adventurous gliding motility protein GltG.  GltG proteins
+gnl|CDD|235906	PRK07003	PRK07003	DNA polymerase III subunit gamma/tau.
+gnl|CDD|411407	PspC_subgroup_1	NF033838	pneumococcal surface protein PspC
+gnl|CDD|236940	PRK11633	PRK11633	cell division protein DedD; Provisional.
+gnl|CDD|223039	PHA03307	PHA03307	transcriptional regulator ICP4; Provisional.
+gnl|CDD|237864	PRK14950	PRK14950	DNA polymerase III subunits gamma and tau; Provisional.
+gnl|CDD|236138	PRK07994	PRK07994	DNA polymerase III subunits gamma and tau; Validated.
+gnl|CDD|235124	PRK03427	PRK03427	cell division protein ZipA; Provisional.
+gnl|CDD|411474	fibronec_FbpA	NF033913	LPXTG-anchored fibronectin-binding protein FbpA.  FbpA
+gnl|CDD|397323	Atrophin-1	pfam03154	Atrophin-1 family.  Atrophin-1 is the protein product of the dentatorubral-pallidoluysian atrophy (DRPLA) gene. DRPLA OMIM:125370 is a progressive neurodegenerative disorder. It is caused by the expansion of a CAG repeat in the DRPLA gene on chromosome 12p. This results in an extended polyglutamine region in atrophin-1
+gnl|CDD|184918	PRK14954	PRK14954	DNA polymerase III subunits gamma and tau; Provisional.
+gnl|CDD|236669	PRK10263	PRK10263	DNA translocase FtsK; Provisional.
+gnl|CDD|237605	dnaA	PRK14086	chromosomal replication initiator protein DnaA.
+gnl|CDD|235904	flhF	PRK06995	flagellar biosynthesis protein FlhF.
+gnl|CDD|240289	PTZ00144	PTZ00144	dihydrolipoamide succinyltransferase; Provisional.
+gnl|CDD|395031	RVT_1	pfam00078	Reverse transcriptase (RNA-dependent DNA polymerase).  A reverse transcriptase gene is usually indicative of a mobile element such as a retrotransposon or retrovirus. Reverse transcriptases occur in a variety of mobile elements
+gnl|CDD|173412	PTZ00121	PTZ00121	MAEBL; Provisional.
+gnl|CDD|411181	transpos_IS21	NF033546	IS21 family transposase.
+gnl|CDD|224117	Smc	COG1196	Chromosome segregation ATPases [Cell division and chromosome partitioning].
+gnl|CDD|237871	PRK14965	PRK14965	DNA polymerase III subunits gamma and tau; Provisional.
+gnl|CDD|236766	rne	PRK10811	ribonuclease E; Reviewed.
+gnl|CDD|234938	PRK01297	PRK01297	ATP-dependent RNA helicase RhlB; Provisional.
+gnl|CDD|239684	RT_DIRS1	cd03714	RT_DIRS1: Reverse transcriptases (RTs) occurring in the DIRS1 group of retransposons. Members of the subfamily include the Dictyostelium DIRS-1
+gnl|CDD|271180	INT_Cre_C	cd00799	C-terminal catalytic domain of Cre recombinase (also called integrase).  Cre-like recombinases are tyrosine based site specific recombinases. They belong to the superfamily of DNA breaking-rejoining enzymes
+gnl|CDD|260007	RNase_HI_RT_DIRS1	cd09275	DIRS1 family of RNase HI in long-term repeat retroelements.  Ribonuclease H (RNase H) enzymes are divided into two major families
+gnl|CDD|238825	RT_LTR	cd01647	RT_LTR: Reverse transcriptases (RTs) from retrotransposons and retroviruses which have long terminal repeats (LTRs) in their DNA copies but not in their RNA template. RT catalyzes DNA replication from an RNA template
+gnl|CDD|239685	RT_ZFREV_like	cd03715	RT_ZFREV_like: A subfamily of reverse transcriptases (RTs) found in sequences similar to the intact endogenous retrovirus ZFERV from zebrafish and to Moloney murine leukemia virus RT.  An RT gene is usually indicative of a mobile element such as a retrotransposon or retrovirus. RTs occur in a variety of mobile elements
+gnl|CDD|271175	DNA_BRE_C	cd00397	DNA breaking-rejoining enzymes
+gnl|CDD|238822	RT_pepA17	cd01644	RT_pepA17: Reverse transcriptase (RTs) in retrotransposons. This subfamily represents the RT domain of a multifunctional enzyme. C-terminal to the RT domain is a domain homologous to aspartic proteinases (corresponding to Merops family A17) encoded by retrotransposons and retroviruses. RT catalyzes DNA replication from an RNA template and is responsible for the replication of retroelements.
+gnl|CDD|399104	Dam	pfam05869	DNA N-6-adenine-methyltransferase (Dam).  This family consists of several bacterial and phage DNA N-6-adenine-methyltransferase (Dam) like sequences.
+gnl|CDD|395471	Phage_integrase	pfam00589	Phage integrase family.  Members of this family cleave DNA substrates by a series of staggered cuts
+gnl|CDD|411216	transpos_ISNCY_2	NF033594	ISNCY family transposase.  The ISNCY insertion sequence family
+gnl|CDD|173534	PTZ00341	PTZ00341	Ring-infected erythrocyte surface antigen; Provisional.
+gnl|CDD|407769	RT_RNaseH_2	pfam17919	RNase H-like domain found in reverse transcriptase.
+gnl|CDD|407767	RT_RNaseH	pfam17917	RNase H-like domain found in reverse transcriptase.  DNA polymerase and ribonuclease H (RNase H) activities allow reverse transcriptases to convert the single-stranded retroviral RNA genome into double-stranded DNA
+gnl|CDD|260006	RNase_HI_RT_Ty3	cd09274	Ty3/Gypsy family of RNase HI in long-term repeat retroelements.  Ribonuclease H (RNase H) enzymes are divided into two major families
+gnl|CDD|238185	RT_like	cd00304	RT_like: Reverse transcriptase (RT
+gnl|CDD|237177	PRK12704	PRK12704	phosphodiesterase; Provisional.
+gnl|CDD|373297	zf-CCHC_5	pfam14787	GAG-polyprotein viral zinc-finger.
+gnl|CDD|238827	RT_nLTR_like	cd01650	RT_nLTR: Non-LTR (long terminal repeat) retrotransposon and non-LTR retrovirus reverse transcriptase (RT). This subfamily contains both non-LTR retrotransposons and non-LTR retrovirus RTs. RTs catalyze the conversion of single-stranded RNA into double-stranded DNA for integration into host chromosomes. RT is a multifunctional enzyme with RNA-directed DNA polymerase
+gnl|CDD|238828	RT_G2_intron	cd01651	RT_G2_intron: Reverse transcriptases (RTs) with group II intron origin. RT transcribes DNA using RNA as template. Proteins in this subfamily are found in bacterial and mitochondrial group II introns. Their most probable ancestor was a retrotransposable element with both gag-like and pol-like genes. This subfamily of proteins appears to have captured the RT sequences from transposable elements
+gnl|CDD|397447	Exo_endo_phos	pfam03372	Endonuclease/Exonuclease/phosphatase family.  This large family of proteins includes magnesium dependent endonucleases and a large number of phosphatases involved in intracellular signalling. This family includes: AP endonuclease proteins EC:4.2.99.18
+gnl|CDD|197310	L1-EN	cd09076	Endonuclease domain (L1-EN) of the non-LTR retrotransposon LINE-1 (L1)
+gnl|CDD|238824	RT_Bac_retron_I	cd01646	RT_Bac_retron_I: Reverse transcriptases (RTs) in bacterial retrotransposons or retrons. The polymerase reaction of this enzyme leads to the production of a unique RNA-DNA complex called msDNA (multicopy single-stranded (ss)DNA) in which a small ssDNA branches out from a small ssRNA molecule via a 2'-5'phosphodiester linkage. Bacterial retron RTs produce cDNA corresponding to only a small portion of the retron genome.
+gnl|CDD|277110	PHD_KDM7	cd15640	PHD finger found in lysine-specific demethylase 7 (KDM7).  KDM7
+gnl|CDD|277029	PHD_PHF2_like	cd15554	PHD finger found in PHF2
+gnl|CDD|277105	PHD_PYGO1	cd15635	PHD finger found in pygopus homolog 1 (PYGO1).  PYGO1 is a homolog of Drosophila melanogaster protein pygopus (dPYGO)
+gnl|CDD|277026	PHD_PYGO	cd15551	PHD finger found in PYGO proteins.  The family includes Drosophila melanogaster protein pygopus (dPYGO) and its two homologs
+gnl|CDD|214584	PHD	smart00249	PHD zinc finger.  The plant homeodomain (PHD) finger is a C4HC3 zinc-finger-like motif found in nuclear proteins thought to be involved in epigenetics and chromatin-mediated transcriptional regulation. The PHD finger binds two zinc ions using the so-called 'cross-brace' motif and is thus structurally related to the RING finger and the FYVE finger. It is not yet known if PHD fingers have a common molecular function. Several reports suggest that it can function as a protein-protein interacton domain and it was recently demonstrated that the PHD finger of p300 can cooperate with the adjacent BROMO domain in nucleosome binding in vitro. Other reports suggesting that the PHD finger is a ubiquitin ligase have been refuted as these domains were RING fingers misidentified as PHD fingers.
+gnl|CDD|277106	PHD_PYGO2	cd15636	PHD finger found in pygopus homolog 2 (PYGO2).  PYGO2 is a homolog of Drosophila melanogaster protein pygopus (dPYGO)
+gnl|CDD|395503	PHD	pfam00628	PHD-finger.  PHD folds into an interleaved type of Zn-finger chelating 2 Zn ions in a similar manner to that of the RING and FYVE domains. Several PHD fingers have been identified as binding modules of methylated histone H3.
+gnl|CDD|276966	PHD_SF	cd15489	PHD finger superfamily.  The PHD finger superfamily includes a canonical plant homeodomain (PHD) finger typically characterized as Cys4HisCys3
+gnl|CDD|405252	Exo_endo_phos_2	pfam14529	Endonuclease-reverse transcriptase.  This domain represents the endonuclease region of retrotransposons from a range of bacteria
+gnl|CDD|238826	TERT	cd01648	TERT: Telomerase reverse transcriptase (TERT). Telomerase is a ribonucleoprotein (RNP) that synthesizes telomeric DNA repeats. The telomerase RNA subunit provides the template for synthesis of these repeats. The catalytic subunit of RNP is known as telomerase reverse transcriptase (TERT). The reverse transcriptase (RT) domain is located in the C-terminal region of the TERT polypeptide. Single amino acid substitutions in this region lead to telomere shortening and senescence. Telomerase is an enzyme that
+gnl|CDD|225881	COG3344	COG3344	Retron-type reverse transcriptase [DNA replication
+gnl|CDD|197311	R1-I-EN	cd09077	Endonuclease domain encoded by various R1- and I-clade non-long terminal repeat retrotransposons.  This family contains the endonuclease (EN) domain of various non-long terminal repeat (non-LTR) retrotransposons
+gnl|CDD|238141	SGNH_hydrolase	cd00229	SGNH_hydrolase
+gnl|CDD|239946	SGNH_hydrolase_like_7	cd04502	Members of the SGNH-hydrolase superfamily
+gnl|CDD|238866	sialate_O-acetylesterase_like2	cd01828	sialate_O-acetylesterase_like subfamily of the SGNH-hydrolases
+gnl|CDD|404371	Lipase_GDSL_2	pfam13472	GDSL-like Lipase/Acylhydrolase family.  This family of presumed lipases and related enzymes are similar to pfam00657.
+gnl|CDD|239945	SGNH_hydrolase_like_4	cd04501	Members of the SGNH-hydrolase superfamily
+gnl|CDD|238870	SGNH_hydrolase_like_1	cd01832	Members of the SGNH-hydrolase superfamily
+gnl|CDD|197306	EEP	cd08372	Exonuclease-Endonuclease-Phosphatase (EEP) domain superfamily.  This large superfamily includes the catalytic domain (exonuclease/endonuclease/phosphatase or EEP domain) of a diverse set of proteins including the ExoIII family of apurinic/apyrimidinic (AP) endonucleases
+gnl|CDD|197317	EEP-1	cd09083	Exonuclease-Endonuclease-Phosphatase domain; uncharacterized family 1.  This family of uncharacterized proteins belongs to a superfamily that includes the catalytic domain (exonuclease/endonuclease/phosphatase
+gnl|CDD|238871	XynB_like	cd01833	SGNH_hydrolase subfamily
+gnl|CDD|239569	RT_Bac_retron_II	cd03487	RT_Bac_retron_II: Reverse transcriptases (RTs) in bacterial retrotransposons or retrons. The polymerase reaction of this enzyme leads to the production of a unique RNA-DNA complex called msDNA (multicopy single-stranded (ss)DNA) in which a small ssDNA branches out from a small ssRNA molecule via a 2'-5'phosphodiester linkage. Bacterial retron RTs produce cDNA corresponding to only a small portion of the retron genome.
+gnl|CDD|197307	ExoIII_AP-endo	cd09073	Escherichia coli exonuclease III (ExoIII)-like apurinic/apyrimidinic (AP) endonucleases.  The ExoIII family AP endonucleases belong to the large EEP (exonuclease/endonuclease/phosphatase) superfamily that contains functionally diverse enzymes that share a common catalytic mechanism of cleaving phosphodiester bonds. AP endonucleases participate in the DNA base excision repair (BER) pathway. AP sites are one of the most common lesions in cellular DNA. During BER
+gnl|CDD|276992	PHD_TCF19_like	cd15517	PHD finger found in Transcription factor 19 (TCF-19)
+gnl|CDD|277014	PHD1_AIRE	cd15539	PHD finger 1 found in autoimmune regulator (AIRE).  AIRE
+gnl|CDD|276979	PHD_PRHA_like	cd15504	PHD finger found in Arabidopsis thaliana pathogenesis-related homeodomain protein (PRHA) and similar proteins.  PRHA is a homeodomain protein encoded by a single-copy Arabidopsis thaliana homeobox gene
+gnl|CDD|276997	PHD_TAF3	cd15522	PHD finger found in transcription initiation factor TFIID subunit 3 (TAF3).  TAF3 (also termed 140 kDa TATA box-binding protein-associated factor
+gnl|CDD|277027	PHD_PHF3_like	cd15552	PHD finger found in PHD finger protein 3 (PHF3)
+gnl|CDD|277031	PHD_MMD1_like	cd15556	PHD finger found in Arabidopsis thaliana PHD finger protein MALE MEIOCYTE DEATH 1 (MMD1)
+gnl|CDD|277025	PHD_MLL5	cd15550	PHD finger found in mixed lineage leukemia 5 (MLL5).  MLL5 is a histone methyltransferase that plays a key role in hematopoiesis
+gnl|CDD|277109	PHD_DIDO1_like	cd15639	PHD finger found in death-inducer obliterator variants Dido1
+gnl|CDD|277082	PHD_TCF19	cd15609	PHD finger found in Transcription factor 19 (TCF-19) and similar proteins.  TCF-19
+gnl|CDD|277035	PHD2_3_BPTF	cd15560	PHD finger 2 and 3 found in bromodomain and PHD finger-containing transcription factor (BPTF).  BPTF
+gnl|CDD|276993	PHD_Ecm5p_Lid2p_like	cd15518	PHD finger found in Saccharomyces cerevisiae extracellular matrix protein 5 (Ecm5p)
+gnl|CDD|277028	PHD_Cfp1	cd15553	PHD finger found in CXXC-type zinc finger protein 1 (Cfp1).  Cfp1
+gnl|CDD|276978	PHD2_MTF2_PHF19_like	cd15503	PHD finger 2 found in polycomb repressive complex 2 (PRC2)-associated polycomb-like (PCL) family proteins MTF2
+gnl|CDD|277083	PHD3_KDM5A_like	cd15610	PHD finger 3 found in Lysine-specific demethylase 5A (KDM5A)
+gnl|CDD|277186	PHD_SPP1	cd16039	PHD finger found in Set1 complex component SPP1.  Set1C component SPP1
+gnl|CDD|223780	XthA	COG0708	Exonuclease III [DNA replication
+gnl|CDD|197318	EEP-2	cd09084	Exonuclease-Endonuclease-Phosphatase (EEP) domain superfamily; uncharacterized family 2.  This family of uncharacterized proteins belongs to a superfamily that includes the catalytic domain (exonuclease/endonuclease/phosphatase
+gnl|CDD|197314	TDP2	cd09080	Phosphodiesterase domain of human TDP2
+gnl|CDD|197321	Ape1-like_AP-endo	cd09087	Human Ape1-like subfamily of the ExoIII family apurinic/apyrimidinic (AP) endonucleases.  This subfamily includes human Ape1 (also known as Apex
+gnl|CDD|197319	Mth212-like_AP-endo	cd09085	Methanothermobacter thermautotrophicus Mth212-like subfamily of the ExoIII family purinic/apyrimidinic (AP) endonucleases.  This subfamily includes the thermophilic archaeon Methanothermobacter thermautotrophicus Mth212and related proteins. These are Escherichia coli exonuclease III (ExoIII)-like AP endonucleases and they belong to the large EEP (exonuclease/endonuclease/phosphatase) superfamily that contains functionally diverse enzymes that share a common catalytic mechanism of cleaving phosphodiester bonds. AP endonucleases participate in the DNA base excision repair (BER) pathway. AP sites are one of the most common lesions in cellular DNA. During BER
+gnl|CDD|404792	zf-RVT	pfam13966	zinc-binding in reverse transcriptase.  This domain would appear to be a zinc-binding region of a putative reverse transcriptase.
+gnl|CDD|276983	PHD3_KMT2A_like	cd15508	PHD finger 3 found in histone-lysine N-methyltransferase 2A (KMT2A) and 2B (KMT2B).  This family includes histone-lysine N-methyltransferase trithorax (Trx) like proteins
+gnl|CDD|277067	PHD3_KMT2A	cd15592	PHD finger 3 found in histone-lysine N-methyltransferase 2A (KMT2A).  KMT2A (also termed ALL-1
+gnl|CDD|277108	PHD_PHF3	cd15638	PHD finger found in PHD finger protein 3 (PHF3).  PHF3 is a human homolog of yeast protein bypass of Ess1 (Bye1)
+gnl|CDD|277085	PHD_AL_plant	cd15613	PHD finger found in plant Alfin1-like (AL) proteins.  AL proteins are ubiquitously expressed nuclear proteins existing only in plants. They are involved in chromatin regulation by binding to tri- and dimethylated histone H3 at lysine 4 (H3K4me3/2)
+gnl|CDD|226098	ElsH	COG3568	Metal-dependent hydrolase [General function prediction only].
+gnl|CDD|277003	PHD1_PHF10	cd15528	PHD finger 1 found in PHD finger protein 10 (PHF10) and similar proteins.  PHF10
+gnl|CDD|197336	Nape_like_AP-endo	cd10281	Neisseria meningitides Nape-like subfamily of the ExoIII family purinic/apyrimidinic (AP) endonucleases.  This subfamily includes Neisseria meningitides Nape and related proteins. These are Escherichia coli exonuclease III (ExoIII)-like AP endonucleases and belong to the large EEP (exonuclease/endonuclease/phosphatase) superfamily that contains functionally diverse enzymes that share a common catalytic mechanism of cleaving phosphodiester bonds. AP endonucleases participate in the DNA base excision repair (BER) pathway. AP sites are one of the most common lesions in cellular DNA. During BER the damaged DNA is first recognized by DNA glycosylase. AP endonucleases then catalyze the hydrolytic cleavage of the phosphodiester bond 5' to the AP site
+gnl|CDD|197320	ExoIII-like_AP-endo	cd09086	Escherichia coli exonuclease III (ExoIII) and Neisseria meningitides NExo-like subfamily of the ExoIII family purinic/apyrimidinic (AP) endonucleases.  This subfamily includes Escherichia coli ExoIII
+gnl|CDD|276994	PHD1_Lid2p_like	cd15519	PHD finger 1 found in Schizosaccharomyces pombe Lid2 complex component Lid2p and similar proteins.  Lid2p is a trimethyl H3K4 (H3K4me3) demethylase responsible for H3K4 hypomethylation in heterochromatin. It interacts with the histone lysine-9 methyltransferase
+gnl|CDD|277087	PHD_ARID4_like	cd15615	PHD finger found in Arabidopsis thaliana AT-rich interactive domain-containing protein 4 (ARID4) and similar proteins.  This family includes A. thaliana ARID4 (ARID domain-containing protein 4) and similar proteins. Their biological roles remain unclear
+gnl|CDD|273186	DNA-apurinic_or_apyrimidinic_site_lyase	TIGR00633	exodeoxyribonuclease III (xth).  All proteins in this family for which functions are known are 5' AP endonucleases that funciton in base excision repair and the repair of abasic sites in DNA.This family is based on the phylogenomic analysis of JA Eisen (1999
+gnl|CDD|276989	PHD6_KMT2C_like	cd15514	PHD finger 6 found in Histone-lysine N-methyltransferase 2C (KMT2C) and PHD finger 5 found in KMT2D.  KMT2C
+gnl|CDD|277157	PHD3_KDM5B	cd15687	PHD finger 3 found in lysine-specific demethylase 5B (KDM5B).  KDM5B
+gnl|CDD|236970	PRK11756	PRK11756	exonuclease III; Provisional.
+gnl|CDD|235600	PRK05771	PRK05771	V-type ATP synthase subunit I; Validated.
+gnl|CDD|276967	PHD_BRPF_JADE_like	cd15492	PHD finger found in BRPF proteins
+gnl|CDD|276977	PHD_Phf1p_Phf2p_like	cd15502	PHD finger found in Schizosaccharomyces pombe SWM histone demethylase complex subunits Phf1 (Phf1p) and Phf2 (Phf2p).  Phf1p and Phf2p are components of the SWM histone demethylase complex that specifically demethylates histone H3 at lysine 9 (H3K9me2)
+gnl|CDD|272954	Exodeoxyribonuclease_III	TIGR00195	exodeoxyribonuclease III.  The model brings in reverse transcriptases at scores below 50
+gnl|CDD|277098	PHD_BAZ1B	cd15628	PHD finger found in bromodomain adjacent to zinc finger domain protein 1B (BAZ1B).  BAZ1B
+gnl|CDD|277019	PHD_BAZ1A_like	cd15544	PHD finger found in bromodomain adjacent to zinc finger domain protein BAZ1A and BAZ1B.  BAZ1A
+gnl|CDD|277020	PHD_BAZ2A_like	cd15545	PHD finger found in bromodomain adjacent to zinc finger domain protein 2A (BAZ2A) and 2B (BAZ2B).  BAZ2A
+gnl|CDD|238823	RT_Rtv	cd01645	RT_Rtv: Reverse transcriptases (RTs) from retroviruses (Rtvs). RTs catalyze the conversion of single-stranded RNA into double-stranded viral DNA for integration into host chromosomes. Proteins in this subfamily contain long terminal repeats (LTRs) and are multifunctional enzymes with RNA-directed DNA polymerase
+gnl|CDD|279452	MP	pfam01107	Viral movement protein (MP).  This family includes a variety of movement proteins (MP)s. The MP is necessary for the initial cell-to-cell movement during the early stages of a viral infection. This movement is active
+gnl|CDD|133136	retropepsin_like	cd00303	Retropepsins; pepsin-like aspartate proteases.  The family includes pepsin-like aspartate proteases from retroviruses
+gnl|CDD|404682	Myb_DNA-bind_4	pfam13837	Myb/SANT-like DNA-binding domain.  This presumed domain appears to be related to other Myb/SANT-like DNA binding domains. In particular pfam10545 seems most related. This family is greatly expanded in plants and appears in several proteins annotated as transposon proteins.
+gnl|CDD|213402	GT1	cd12203	GT1
+gnl|CDD|197322	Ape2-like_AP-endo	cd09088	Human Ape2-like subfamily of the ExoIII family purinic/apyrimidinic (AP) endonucleases.  This subfamily includes human APE2
+gnl|CDD|396089	Transposase_1	pfam01359	Transposase (partial DDE domain).  This family includes the mariner transposase.
+gnl|CDD|411180	transpos_IS630	NF033545	IS630 family transposase.
+gnl|CDD|407758	HTH_48	pfam17906	HTH domain in Mos1 transposase.  The N-terminal domain of the Mos1 Mariner transposase comprises two HTH domains. This HTH domain binds in the DNA major groove to the transposons inverted repeats.
+gnl|CDD|404455	HTH_32	pfam13565	Homeodomain-like domain.
+gnl|CDD|404269	DDE_3	pfam13358	DDE superfamily endonuclease.  This family of proteins are related to pfam00665 and are probably endonucleases of the DDE superfamily. Transposase proteins are necessary for efficient DNA transposition. This domain is a member of the DDE superfamily
+gnl|CDD|225949	COG3415	COG3415	Transposase and inactivated derivatives [DNA replication
+gnl|CDD|404317	HTH_24	pfam13412	Winged helix-turn-helix DNA-binding.
+gnl|CDD|372752	DDE_Tnp_1_7	pfam13843	Transposase IS4.
+gnl|CDD|395028	RNase_H	pfam00075	RNase H.  RNase H digests the RNA strand of an RNA/DNA hybrid. Important enzyme in retroviral replication cycle
+gnl|CDD|223405	RnhA	COG0328	Ribonuclease HI [DNA replication
+gnl|CDD|260010	RNase_HI_prokaryote_like	cd09278	RNase HI family found mainly in prokaryotes.  Ribonuclease H (RNase H) is classified into two evolutionarily unrelated families
+gnl|CDD|260012	RNase_HI_eukaryote_like	cd09280	Eukaryotic RNase H is essential and is longer and more complex than their prokaryotic counterparts.  Ribonuclease H (RNase H) is classified into two families
+gnl|CDD|260011	RNase_HI_like	cd09279	RNAse HI family that includes archaeal
+gnl|CDD|178927	rnhA	PRK00203	ribonuclease H; Reviewed.
+gnl|CDD|260005	RNase_HI_RT_Bel	cd09273	Bel/Pao family of RNase HI in long-term repeat retroelements.  Ribonuclease H (RNase H) enzymes are divided into two major families
+gnl|CDD|260009	RNase_HI_bacteria_like	cd09277	Bacterial RNase HI containing a hybrid binding domain (HBD) at the N-terminus.  Ribonuclease H (RNase H) enzymes are divided into two major families
+gnl|CDD|139967	rnhA	PRK13907	ribonuclease H; Provisional.
+gnl|CDD|400537	RVP_2	pfam08284	Retroviral aspartyl protease.  Single domain aspartyl proteases from retroviruses
+gnl|CDD|407771	Integrase_H2C2	pfam17921	Integrase zinc binding domain.  This zinc binding domain is found in a wide variety of integrase proteins.
+gnl|CDD|349335	CD_POL_like	cd18979	chromodomain of a Zea maize putative metaviridae (gypsy-type) retrotransposon polyproteins (Z195D10.9)
+gnl|CDD|277074	PHD5_KMT2D	cd15601	PHD finger 5 found in Histone-lysine N-methyltransferase 2D (KMT2D).  KMT2D
+gnl|CDD|274008	Chromosome_partition_protein_Smc	TIGR02168	chromosome segregation protein SMC
+gnl|CDD|274009	chromosome_segregation_protein_related_ptotein	TIGR02169	chromosome segregation protein SMC
+gnl|CDD|397235	Transposase_22	pfam02994	L1 transposable element RBD-like domain.  This entry represents the RBD-like domain.
+gnl|CDD|277045	PHD_Bye1p_SIZ1_like	cd15570	PHD domain found in Saccharomyces cerevisiae bypass of ESS1 protein 1 (Bye1p)
+gnl|CDD|399013	Dimer_Tnp_hAT	pfam05699	hAT family C-terminal dimerization region.  This dimerization region is found at the C-terminus of the transposases of elements belonging to the Activator superfamily (hAT element superfamily). The isolated dimerization region forms extremely stable dimers in vitro.
+gnl|CDD|405121	DUF4413	pfam14372	Domain of unknown function (DUF4413).  This domain is part of an RNase-H fold section of longer proteins some of which are transposable elements possibly of the Pong type
+gnl|CDD|214746	ZnF_BED	smart00614	BED zinc finger.  DNA-binding domain in chromatin-boundary-element-binding proteins and transposases.
+gnl|CDD|277097	PHD_BAZ1A	cd15627	PHD finger found in bromodomain adjacent to zinc finger domain protein 1A (BAZ1A).  BAZ1A
+gnl|CDD|277018	PHD_RSF1	cd15543	PHD finger found in Remodeling and spacing factor 1 (Rsf-1).  Rsf-1
+gnl|CDD|277048	PHD_JADE	cd15573	PHD finger found in proteins Jade-1
+gnl|CDD|277149	PHD_JADE1	cd15679	PHD finger found in protein Jade-1 and similar proteins.  Jade-1
+gnl|CDD|276990	PHD1_KDM5A_like	cd15515	PHD finger 1 found in Lysine-specific demethylase KDM5A
+gnl|CDD|277151	PHD_JADE3	cd15681	PHD finger found in protein Jade-3 and similar proteins.  Jade-3
+gnl|CDD|277099	PHD_BAZ2A	cd15629	PHD finger found in bromodomain adjacent to zinc finger domain protein 2A (BAZ2A).  BAZ2A
+gnl|CDD|277075	PHD1_KDM5A	cd15602	PHD finger 1 found in Lysine-specific demethylase 5A (KDM5A).  KDM5A (also termed Histone demethylase JARID1A
+gnl|CDD|277078	PHD1_Lid_like	cd15605	PHD finger 1 found in Drosophila melanogaster protein little imaginal discs (Lid) and similar proteins.  Drosophila melanogaster Lid
+gnl|CDD|277011	PHD_PHRF1	cd15536	PHD finger found in PHD and RING finger domain-containing protein 1 (PHRF1).  PHRF1
+gnl|CDD|277000	PHD_UHRF1_2	cd15525	PHD finger found in ubiquitin-like PHD and RING finger domain-containing protein UHRF1 and UHRF2.  UHRF1 is a unique chromatin effector protein that integrates the recognition of both histone PTMs and DNA methylation. It is essential for cell proliferation and plays a critical role in the development and progression of many human carcinomas
+gnl|CDD|277007	PHD2_CHD_II	cd15532	PHD finger 2 found in class II Chromodomain-Helicase-DNA binding (CHD) proteins.  Class II CHD proteins includes chromodomain-helicase-DNA-binding protein CHD3
+gnl|CDD|277004	PHD2_PHF10	cd15529	PHD finger 2 found in PHD finger protein 10 (PHF10) and similar proteins.  PHF10
+gnl|CDD|277150	PHD_JADE2	cd15680	PHD finger found in protein Jade-2 and similar proteins.  Jade-2
+gnl|CDD|277103	PHD_PHF20L1	cd15633	PHD finger found in PHD finger protein 20-like protein 1 (P20L1).  P20L1 is an active malignant brain tumor (MBT) domain-containing protein that binds to monomethylated lysine 142 on DNA (Cytosine-5) Methyltransferase 1 (DNMT1) (DNMT1K142me1) and colocalizes at the perinucleolar space in a SET7-dependent manner. Its MBT domain reads and controls enzyme levels of methylated DNMT1 in cells
+gnl|CDD|277013	PHD_PRKCBP1	cd15538	PHD finger found in protein kinase C-binding protein 1 (PRKCBP1).  PRKCBP1
+gnl|CDD|277088	PHD_UHRF1	cd15616	PHD finger found in ubiquitin-like PHD and RING finger domain-containing protein 1 (UHRF1).  UHRF1 (also termed inverted CCAAT box-binding protein of 90 kDa
+gnl|CDD|277089	PHD_UHRF2	cd15617	PHD finger found in ubiquitin-like PHD and RING finger domain-containing protein 2 (UHRF2).  UHRF2 (also termed Np95/ICBP90-like RING finger protein (NIRF)
+gnl|CDD|277002	PHD2_KAT6A_6B	cd15527	PHD finger 2 found in monocytic leukemia zinc-finger protein (MOZ) and its factor (MORF).  MOZ
+gnl|CDD|277069	PHD2_KMT2C	cd15594	PHD finger 2 found in Histone-lysine N-methyltransferase 2C (KMT2C).  KMT2C
+gnl|CDD|277070	PHD2_KMT2D	cd15595	PHD finger 2 found in Histone-lysine N-methyltransferase 2D (KMT2D).  KMT2D
+gnl|CDD|277005	PHD2_d4	cd15530	PHD finger 2 found in d4 gene family proteins.  The family includes proteins coded by three members of the d4 gene family
+gnl|CDD|277043	PHD5_NSD	cd15568	PHD finger 5 found in nuclear receptor-binding SET domain-containing (NSD) proteins.  The nuclear receptor binding SET domain (NSD) protein is a family of three HMTases
+gnl|CDD|277053	PHD1_MTF2	cd15578	PHD finger 1 found in metal-response element-binding transcription factor 2 (MTF2).  MTF2
+gnl|CDD|277086	PHD_HAC_like	cd15614	PHD finger found in Arabidopsis thaliana histone acetyltransferases (HATs) HAC and similar proteins.  This family includes A. thaliana HACs (HAC1/2/4/5/12)
+gnl|CDD|277077	PHD1_KDM5C_5D	cd15604	PHD finger 1 found in Lysine-specific demethylase 5C (KDM5C) and 5D (KDM5D).  The family includes KDM5C and KDM5D
+gnl|CDD|276985	PHD2_KMT2C_like	cd15510	PHD finger 2 found in Histone-lysine N-methyltransferase 2C (KMT2C) and 2D (KMT2D).  KMT2C
+gnl|CDD|404529	Asp_protease_2	pfam13650	Aspartyl protease.  This family consists of predicted aspartic proteases
+gnl|CDD|370444	zf-H2C2	pfam09337	His(2)-Cys(2) zinc finger.  This domain binds to histone upstream activating sequence (UAS) elements that are found in histone gene promoters. Added to clan to resolve overlaps with PF16721 but neither are classic zf_C2H2 zinc-fingers.
+gnl|CDD|404799	gag-asp_proteas	pfam13975	gag-polyprotein putative aspartyl protease.  This family of putative aspartyl proteases is found pre-dominantly in retroviral proteins.
+gnl|CDD|406482	DUF4817	pfam16087	Domain of unknown function (DUF4817).  This family of proteins is functionally uncharacterized. This family of proteins is found in eukaryotes. Proteins in this family are typically between 109 and 322 amino acids in length. There are two completely conserved residues (G and R) that may be functionally important.
+gnl|CDD|349325	chromodomain	cd18969	CHROMO (CHRromatin Organization Modifier) domain; uncharacterized subgroup; for most members of this subgroup
+gnl|CDD|395309	Chromo	pfam00385	Chromo (CHRromatin Organisation MOdifier) domain.
+gnl|CDD|349274	CD_CSD	cd00024	CHROMO (CHRromatin Organization Modifier) domains and chromo shadow domains.  Members of this group are chromodomains or chromo shadow domains; these are SH3-fold-beta-barrel domains of the chromo-like superfamily. Chromodomains lack the first strand of the SH3-fold-beta-barrel
+gnl|CDD|349306	CD2_tandem	cd18659	repeat 2 of paired tandem chromodomains.  Repeat 2 of tandem CHRomatin Organization Modifier (chromo) domains
+gnl|CDD|349331	CD_MarY1_POL_like	cd18975	chromodomain of Tricholoma matsutake polyprotein
+gnl|CDD|214605	CHROMO	smart00298	Chromatin organization modifier domain.
+gnl|CDD|349322	chromodomain	cd18966	CHROMO (CHRromatin Organization Modifier) domain; uncharacterized subgroup.  The chromodomain is a conserved region of about 50 amino acids
+gnl|CDD|349316	CD_HP1_like	cd18960	chromodomain of heterochromatin protein 1 proteins
+gnl|CDD|181088	PRK07708	PRK07708	hypothetical protein; Validated.
+gnl|CDD|398047	Transposase_28	pfam04195	Putative gypsy type transposon.  This family of plant genes are thought to be related to gypsy type transposons.
+gnl|CDD|180903	PRK07238	PRK07238	bifunctional RNase H/acid phosphatase; Provisional.
+gnl|CDD|197367	Ebola-like_HR1-HR2	cd09850	heptad repeat 1-heptad repeat 2 region of the transmembrane subunit of Filoviridae viruses
+gnl|CDD|408474	MLVIN_C	pfam18697	Murine leukemia virus (MLV) integrase (IN) C-terminal domain.  This is the C-terminal domain (CTD) which can be found in murine leukemia virus (MLV) integrase (IN) proteins. The MLV IN C-terminal domain interacts with the bromo and extraterminal (BET) proteins through the ET domain. This interaction provides a structural basis for global in vivo integration-site preferences andt disruption of this interaction through truncation mutations affects the global targeting profile of MLV. The CTD consists an SH3 fold followed by a long unstructured tail.
+gnl|CDD|197373	ENVV1-like_HR1-HR2	cd09950	heptad repeat 1-heptad repeat 2 region (ectodomain) of the transmembrane subunit of the human endogenous retrovirus ENVV1
+gnl|CDD|403286	DUF3504	pfam12012	Domain of unknown function (DUF3504).  This presumed domain is functionally uncharacterized. This domain is found in eukaryotes. This domain is typically between 156 to 173 amino acids in length.
+gnl|CDD|271177	INT_Rci_Hp1_C	cd00796	Shufflon-specific DNA recombinase Rci and Bacteriophage Hp1_like integrase
+gnl|CDD|271188	INT_RitA_C_like	cd01188	C-terminal catalytic domain of recombinase RitA
+gnl|CDD|271184	INT_C_like_1	cd01184	Uncharacterized site-specific tyrosine recombinase
+gnl|CDD|271189	INT_ICEBs1_C_like	cd01189	C-terminal catalytic domain of integrases from bacterial phages and conjugate transposons.  This family of tyrosine based site-specific integrases is has origins in bacterial phages and conjugate transposons. One member is the integrase from Bacillus subtilis conjugative transposon ICEBs1. ICEBs1 can be excised and transfered to various recipients in response to DNA damage or high concentrations of potential mating partners. The family belongs to the superfamily of DNA breaking-rejoining enzymes
+gnl|CDD|271185	INTN1_C_like	cd01185	Integrase IntN1 of Bacteroides mobilizable transposon NBU1 and similar proteins
+gnl|CDD|271193	INT_IntI_C	cd01193	Integron integrase and similar protiens
+gnl|CDD|271192	INT_C_like_3	cd01192	Uncharacterized site-specific tyrosine recombinase
+gnl|CDD|223655	XerC	COG0582	Integrase [DNA replication
+gnl|CDD|271182	INT_P4_C	cd00801	Bacteriophage P4 integrase
+gnl|CDD|407051	NDC10_II	pfam16787	Centromere DNA-binding protein complex CBF3 subunit
+gnl|CDD|403669	GCR1_C	pfam12550	Transcriptional activator of glycolytic enzymes.  This domain family is found in eukaryotes
+gnl|CDD|238050	IPT	cd00102	Immunoglobulin-like fold
+gnl|CDD|214657	IPT	smart00429	ig-like
+gnl|CDD|396048	Glyco_hydro_35	pfam01301	Glycosyl hydrolases family 35.
+gnl|CDD|166698	PLN03059	PLN03059	beta-galactosidase; Provisional.
+gnl|CDD|270693	STKc_AGC	cd05123	Catalytic domain of AGC family Serine/Threonine Kinases.  STKs catalyze the transfer of the gamma-phosphoryl group from ATP to serine/threonine residues on protein substrates. AGC kinases regulate many cellular processes including division
+gnl|CDD|270723	STKc_PKB	cd05571	Catalytic domain of the Serine/Threonine Kinase
+gnl|CDD|270732	STKc_PKA_like	cd05580	Catalytic subunit of the Serine/Threonine Kinases
+gnl|CDD|270722	STKc_PKC	cd05570	Catalytic domain of the Serine/Threonine Kinase
+gnl|CDD|270905	STKc_AMPK-like	cd14003	Catalytic domain of AMP-activated protein kinase-like Serine/Threonine Kinases.  STKs catalyze the transfer of the gamma-phosphoryl group from ATP to serine/threonine residues on protein substrates. The AMPK-like subfamily is composed of AMPK
+gnl|CDD|214567	S_TKc	smart00220	Serine/Threonine protein kinases
+gnl|CDD|270726	STKc_phototropin_like	cd05574	Catalytic domain of Phototropin-like Serine/Threonine Kinases.  STKs catalyze the transfer of the gamma-phosphoryl group from ATP to serine/threonine residues on protein substrates. Phototropins are blue-light receptors that control responses such as phototropism
+gnl|CDD|270744	STKc_nPKC_theta_like	cd05592	Catalytic domain of the Serine/Threonine Kinases
+gnl|CDD|173686	STKc_PKB_beta	cd05595	Catalytic domain of the Serine/Threonine Kinase
+gnl|CDD|270733	STKc_PDK1	cd05581	Catalytic domain of the Serine/Threonine Kinase
+gnl|CDD|270909	STKc_Aurora	cd14007	Catalytic domain of the Serine/Threonine kinase
+gnl|CDD|270745	STKc_PKB_gamma	cd05593	Catalytic domain of the Serine/Threonine Kinase
+gnl|CDD|270736	STKc_p70S6K	cd05584	Catalytic domain of the Serine/Threonine Kinase
+gnl|CDD|270725	STKc_ROCK_NDR_like	cd05573	Catalytic domain of Rho-associated coiled-coil containing protein kinase (ROCK)- and Nuclear Dbf2-Related (NDR)-like Serine/Threonine Kinases.  STKs catalyze the transfer of the gamma-phosphoryl group from ATP to serine/threonine residues on protein substrates. Members of this subfamily include ROCK and ROCK-like proteins such as DMPK
+gnl|CDD|270730	STKc_Yank1	cd05578	Catalytic domain of the Serine/Threonine Kinase
+gnl|CDD|270763	STKc_PRKX_like	cd05612	Catalytic domain of PRKX-like Protein Serine/Threonine Kinases.  STKs catalyze the transfer of the gamma-phosphoryl group from ATP to serine/threonine residues on protein substrates. Members of this group include human PRKX (X chromosome-encoded protein kinase)
+gnl|CDD|270739	STKc_cPKC	cd05587	Catalytic domain of the Serine/Threonine Kinase
+gnl|CDD|270743	STKc_nPKC_epsilon	cd05591	Catalytic domain of the Serine/Threonine Kinase
+gnl|CDD|270727	STKc_SGK	cd05575	Catalytic domain of the Serine/Threonine Kinase
+gnl|CDD|270687	STKc_CAMK	cd05117	The catalytic domain of CAMK family Serine/Threonine Kinases.  STKs catalyze the transfer of the gamma-phosphoryl group from ATP to serine/threonine residues on protein substrates. CaMKs are multifunctional calcium and calmodulin (CaM) stimulated STKs involved in cell cycle regulation. There are several types of CaMKs including CaMKI
+gnl|CDD|270740	STKc_aPKC	cd05588	Catalytic domain of the Serine/Threonine Kinase
+gnl|CDD|270982	STKc_TSSK-like	cd14080	Catalytic domain of testis-specific serine/threonine kinases and similar proteins.  STKs catalyze the transfer of the gamma-phosphoryl group from ATP to serine/threonine residues on protein substrates. TSSK proteins are almost exclusively expressed postmeiotically in the testis and play important roles in spermatogenesis and/or spermiogenesis. There are five mammalian TSSK proteins which show differences in their localization and timing of expression. TSSK1 and TSSK2 are expressed specifically in meiotic and postmeiotic spermatogenic cells
+gnl|CDD|270770	STKc_nPKC_theta	cd05619	Catalytic domain of the Serine/Threonine Kinase
+gnl|CDD|270746	STKc_PKB_alpha	cd05594	Catalytic domain of the Serine/Threonine Kinase
+gnl|CDD|270742	STKc_nPKC_eta	cd05590	Catalytic domain of the Serine/Threonine Kinase
+gnl|CDD|270731	STKc_MAST_like	cd05579	Catalytic domain of Microtubule-associated serine/threonine (MAST) kinase-like proteins.  STKs catalyze the transfer of the gamma-phosphoryl group from ATP to serine/threonine residues on protein substrates. This subfamily includes MAST kinases
+gnl|CDD|270741	STKc_PKN	cd05589	Catalytic domain of the Serine/Threonine Kinase
+gnl|CDD|270769	STKc_aPKC_iota	cd05618	Catalytic domain of the Serine/Threonine Kinase
+gnl|CDD|173710	STKc_nPKC_delta	cd05620	Catalytic domain of the Serine/Threonine Kinase
+gnl|CDD|270768	STKc_aPKC_zeta	cd05617	Catalytic domain of the Serine/Threonine Kinase
+gnl|CDD|271064	STKc_TSSK4-like	cd14162	Catalytic domain of testis-specific serine/threonine kinase 4 and similar proteins.  STKs catalyze the transfer of the gamma-phosphoryl group from ATP to serine/threonine residues on protein substrates. TSSK proteins are almost exclusively expressed postmeiotically in the testis and play important roles in spermatogenesis and/or spermiogenesis. There are five mammalian TSSK proteins which show differences in their localization and timing of expression. TSSK4
+gnl|CDD|271111	STKc_PKA	cd14209	Catalytic subunit of the Serine/Threonine Kinase
+gnl|CDD|270724	STKc_cGK	cd05572	Catalytic domain of the Serine/Threonine Kinase
+gnl|CDD|270974	STKc_MARK	cd14072	Catalytic domain of the Serine/Threonine Kinases
+gnl|CDD|270738	STKc_Sck1_like	cd05586	Catalytic domain of Suppressor of loss of cAMP-dependent protein kinase-like Serine/Threonine Kinases.  STKs catalyze the transfer of the gamma-phosphoryl group from ATP to serine/threonine residues on protein substrates. This subfamily is composed of Schizosaccharomyces pombe Sck1 and similar fungal proteins. Sck1 plays a role in trehalase activation triggered by glucose and a nitrogen source. Trehalase catalyzes the cleavage of the disaccharide trehalose to glucose. Trehalose
+gnl|CDD|270767	STKc_cPKC_beta	cd05616	Catalytic domain of the Serine/Threonine Kinase
+gnl|CDD|270737	STKc_YPK1_like	cd05585	Catalytic domain of Yeast Protein Kinase 1-like Serine/Threonine Kinases.  STKs catalyze the transfer of the gamma-phosphoryl group from ATP to serine/threonine residues on protein substrates. This subfamily is composed of fungal proteins with similarity to the AGC STKs
+gnl|CDD|270754	STKc_SGK2	cd05603	Catalytic domain of the Serine/Threonine Kinase
+gnl|CDD|270753	STKc_SGK1	cd05602	Catalytic domain of the Protein Serine/Threonine Kinase
+gnl|CDD|270766	STKc_cPKC_alpha	cd05615	Catalytic domain of the Serine/Threonine Kinase
+gnl|CDD|270692	PKc_STE	cd05122	Catalytic domain of STE family Protein Kinases.  PKs catalyze the transfer of the gamma-phosphoryl group from ATP to serine/threonine (ST) or tyrosine residues on protein substrates. This family is composed of STKs
+gnl|CDD|270896	STKc_HAL4_like	cd13994	Catalytic domain of Fungal Halotolerance protein 4-like Serine/Threonine kinases.  STKs catalyze the transfer of the gamma-phosphoryl group from ATP to serine/threonine residues on protein substrates. This subfamily is composed of HAL4
+gnl|CDD|270783	STKc_MAPKKK	cd06606	Catalytic domain of the Serine/Threonine Kinase
+gnl|CDD|270977	STKc_NIM1	cd14075	Catalytic domain of the Serine/Threonine Kinase
+gnl|CDD|270760	STKc_MAST	cd05609	Catalytic domain of the Protein Serine/Threonine Kinase
+gnl|CDD|403641	DUF3716	pfam12511	Protein of unknown function (DUF3716).  This domain family is found in eukaryotes
+gnl|CDD|211427	Ndc10	cd11602	Ndc10 component of the yeast centromere-binding factor 3.  Ndc10 is a multidomain protein conserved in Saccharomycotina that interacts with kinetochore components. This model characterizes the majority of the protein; some family members may have an additional C-terminal domain that is homologous to transcriptional activators (GCR1_C). Ndc10 is part of the centromere-binding factor 3 (CBF3) complex in budding yeast. The CBF3 complex contains four essential proteins
+gnl|CDD|227489	ULP1	COG5160	Protease
+gnl|CDD|397169	Peptidase_C48	pfam02902	Ulp1 protease family
+gnl|CDD|271183	INT_RitC_C_like	cd01182	C-terminal catalytic domain of recombinase RitC
+gnl|CDD|234698	xerC	PRK00236	site-specific tyrosine recombinase XerC; Reviewed.
+gnl|CDD|271195	INT_C_like_5	cd01195	Uncharacterized site-specific tyrosine recombinase
+gnl|CDD|271194	INT_C_like_4	cd01194	Uncharacterized site-specific tyrosine recombinase
+gnl|CDD|404412	HTH_28	pfam13518	Helix-turn-helix domain.  This helix-turn-helix domain is often found in transposases and is likely to be DNA-binding.
+gnl|CDD|404292	HTH_23	pfam13384	Homeodomain-like domain.
+gnl|CDD|349329	CD_Tf2-1_POL_like	cd18973	chromodomain of Rhizoctonia solani AG-1 IB retrotransposable element Tf2 155 kDa protein type 1
+gnl|CDD|349289	CD_SUV39H1_like	cd18639	chromodomain of histone methyltransferase SUV39H1
+gnl|CDD|349297	CD_HP1beta_Cbx1	cd18650	chromodomain of heterochromatin protein 1 homolog beta.  CHRomatin Organization Modifier (chromo) domain of heterochromatin protein 1 homolog beta (also known as HP1beta
+gnl|CDD|349281	CD_HP1_like	cd18631	chromodomain of heterochromatin protein 1 proteins
+gnl|CDD|349332	CD_POL_like	cd18976	chromodomain of uncharacterized putative retroelement polyprotein proteins.  This subgroup includes the CHROMO (CHRromatin Organization Modifier) domain found in  uncharacterized putative retrotransposon proteins
+gnl|CDD|380926	SET_SETD8	cd10528	SET domain found in SET domain-containing protein 8 (SETD8) and similar proteins.  SETD8 (EC 2.1.1.43; also termed N-lysine methyltransferase KMT5A
+gnl|CDD|380914	SET	cd08161	SET (Su(var)3-9
+gnl|CDD|380916	SET_SETD1-like	cd10518	SET domain (including post-SET domain) found in SET domain-containing proteins (SETD1A/SETD1B)
+gnl|CDD|380920	SET_LegAS4-like	cd10522	SET domain found in Legionella pneumophila type IV secretion system effector LegAS4 and similar proteins.  LegAS4 is a type IV secretion system effector of Legionella pneumophila. It contains a SET domain that is involved in the modification of Lys4 of histone H3 (H3K4) in the nucleolus of the host cell
+gnl|CDD|395687	SET	pfam00856	SET domain.  SET domains are protein lysine methyltransferase enzymes. SET domains appear to be protein-protein interaction domains. It has been demonstrated that SET domains mediate interactions with a family of proteins that display similarity with dual-specificity phosphatases (dsPTPases). A subset of SET domains have been called PR domains. These domains are divergent in sequence from other SET domains
+gnl|CDD|380929	SET_SETD2-like	cd10531	SET domain (including post-SET domain) found in SET domain-containing protein 2 (SETD2)
+gnl|CDD|214614	SET	smart00317	SET (Su(var)3-9
+gnl|CDD|380982	SET_SETD1B	cd19205	SET domain (including post-SET domain) found in SET domain-containing protein 1B (SETD1B) and similar proteins.  SETD1B (EC2.1.1.43)
+gnl|CDD|380946	SET_SETD1	cd19169	SET domain (including post-SET domain) found in SET domain-containing protein 1 (SETD1) and similar proteins.  This family includes SET domain-containing protein 1A (SETD1A) and SET domain-containing protein 1B (SETD1B). These proteins are histone-lysine N-methyltransferases that specifically methylate 'Lys-4' of histone H3 (H3K4me) when part of the SET1 histone methyltransferase (HMT) complex
+gnl|CDD|380951	SET_ASH1L	cd19174	SET domain (including post-SET domain) found in ASH1-like protein (ASH1L) and similar proteins.  ASH1L (EC 2.1.1.43; also termed absent small and homeotic disks protein 1 homolog
+gnl|CDD|380936	SET_SETDB-like	cd10538	SET domain (including pre-SET and post-SET domains) found in SET domain bifurcated 1 (SETDB1) and 2 (SETDB2)
+gnl|CDD|380940	SET_SUV39H	cd10542	SET domain (including pre-SET and post-SET domains) found in suppressor of variegation 3-9 homologs
+gnl|CDD|380942	SET_SETMAR	cd10544	SET domain (including pre-SET and post-SET domains) found in SET domain and mariner transposase fusion protein (SETMAR) and similar proteins.  SETMAR (also termed metnase) is a DNA-binding protein that is indirectly recruited to sites of DNA damage through protein-protein interactions. It has a sequence-specific DNA-binding activity recognizing the 19-mer core of the 5'-terminal inverted repeats (TIRs) of the Hsmar1 element and displays a DNA nicking and end joining activity. SETMAR also acts as a histone-lysine N-methyltransferase that methylates 'Lys-4' and 'Lys-36' of histone H3. It specifically mediates dimethylation of H3 'Lys-36' at sites of DNA double-strand break and may recruit proteins required for efficient DSB repair through non-homologous end-joining.
+gnl|CDD|380947	SET_KMT2A_2B	cd19170	SET domain (including post-SET domain) found in histone-lysine N-methyltransferase 2A (KMT2A)
+gnl|CDD|380949	SET_SETD2	cd19172	SET domain (including post-SET domain) found in SET domain-containing protein 2 (SETD2) and similar proteins.  SETD2 (also termed HIF-1
+gnl|CDD|402263	MULE	pfam10551	MULE transposase domain.  This domain was identified by Babu and colleagues.
+gnl|CDD|401319	DUF1985	pfam09331	Domain of unknown function (DUF1985).  Members of this family of functionally uncharacterized domains are found in a set of Arabidopsis thaliana hypothetical proteins.
+gnl|CDD|178645	FHY3	PLN03097	Protein FAR-RED ELONGATED HYPOCOTYL 3; Provisional.
+gnl|CDD|397295	DBD_Tnp_Mut	pfam03108	MuDR family transposase.  This region is found in plant proteins that are presumed to be the transposases for Mutator transposable elements. These transposons contain two ORFs. The molecular function of this region is unknown.
+gnl|CDD|128845	ZnF_PMZ	smart00575	plant mutator transposase zinc finger.
+gnl|CDD|309540	SWIM	pfam04434	SWIM zinc finger.  This domain is found in bacterial
+gnl|CDD|307151	Transposase_mut	pfam00872	Transposase
+gnl|CDD|277068	PHD3_KMT2B	cd15593	PHD finger 3 found in Histone-lysine N-methyltransferase 2B (KMT2B).  KMT2B
+gnl|CDD|225565	COG3021	COG3021	Uncharacterized protein conserved in bacteria [Function unknown].
+gnl|CDD|179385	PRK02224	PRK02224	DNA double-strand break repair Rad50 ATPase.
+gnl|CDD|225288	COG2433	COG2433	Uncharacterized conserved protein [Function unknown].
+gnl|CDD|133150	retropepsin_like_bacteria	cd05483	Bacterial aspartate proteases
+gnl|CDD|395483	Gag_p24	pfam00607	gag gene protein p24 (core nucleocapsid protein).  p24 forms inner protein layer of the nucleocapsid. ELISA tests for p24 is the most commonly used method to demonstrate virus replication both in vivo and in vitro.
+gnl|CDD|133149	HIV_retropepsin_like	cd05482	Retropepsins
+gnl|CDD|395562	dUTPase	pfam00692	dUTPase.  dUTPase hydrolyzes dUTP to dUMP and pyrophosphate.
+gnl|CDD|399655	RVT_thumb	pfam06817	Reverse transcriptase thumb domain.  This domain is known as the thumb domain. It is composed of a four helix bundle.
+gnl|CDD|395030	RVP	pfam00077	Retroviral aspartyl protease.  Single domain aspartyl proteases from retroviruses
+gnl|CDD|273149	Deoxyuridine_5'-triphosphate_nucleotidohydrolase	TIGR00576	deoxyuridine 5'-triphosphate nucleotidohydrolase (dut).  The main function of these proteins is in maintaining the levels of dUTP in the cell to prevent dUTP incorporation into DNA during DNA replication. Pol proteins in viruses are very similar to this protein family. This family is based on the phylogenomic analysis of JA Eisen (1999
+gnl|CDD|234802	dut	PRK00601	dUTP diphosphatase.
+gnl|CDD|223827	Dut	COG0756	dUTPase [Nucleotide transport and metabolism].
+gnl|CDD|143638	trimeric_dUTPase	cd07557	Trimeric dUTP diphosphatases.  Trimeric dUTP diphosphatases
+gnl|CDD|165079	PHA02703	PHA02703	ORF007 dUTPase; Provisional.
+gnl|CDD|395437	IN_DBD_C	pfam00552	Integrase DNA binding domain.  Integrase mediates integration of a DNA copy of the viral genome into the host chromosome. Integrase is composed of three domains. The amino-terminal domain is a zinc binding domain. The central domain is the catalytic domain pfam00665. This domain is the carboxyl terminal domain that is a non-specific DNA binding domain.
+gnl|CDD|215302	PLN02547	PLN02547	dUTP pyrophosphatase.
+gnl|CDD|396557	Integrase_Zn	pfam02022	Integrase Zinc binding domain.  Integrase mediates integration of a DNA copy of the viral genome into the host chromosome. Integrase is composed of three domains. This domain is the amino-terminal domain zinc binding domain. The central domain is the catalytic domain pfam00665. The carboxyl terminal domain is a DNA binding domain pfam00552.
+gnl|CDD|165376	PHA03094	PHA03094	dUTPase; Provisional.
+gnl|CDD|223789	Dcd	COG0717	Deoxycytidine deaminase [Nucleotide transport and metabolism].
+gnl|CDD|222994	PHA03129	PHA03129	dUTPase; Provisional.
+gnl|CDD|396249	G-patch	pfam01585	G-patch domain.  This domain is found in a number of RNA binding proteins
+gnl|CDD|197727	G_patch	smart00443	glycine rich nucleic binding domain.  A predicted glycine rich nucleic binding domain found in the splicing factor 45
+gnl|CDD|184417	dut	PRK13956	dUTP diphosphatase.
+gnl|CDD|165396	PHA03124	PHA03124	dUTPase; Provisional.
+gnl|CDD|133151	retropepsin_like_LTR_2	cd05484	Retropepsins_like_LTR
+gnl|CDD|133159	RP_RTVL_H_like	cd06095	Retropepsin of the RTVL_H family of human endogenous retrovirus-like elements.  This family includes aspartate proteases from retroelements with LTR (long terminal repeats) including the RTVL_H family of human endogenous retrovirus-like elements. While fungal and mammalian pepsins are bilobal proteins with structurally related N- and C-termini
+gnl|CDD|197713	HTH_ARSR	smart00418	helix_turn_helix
+gnl|CDD|238042	HTH_ARSR	cd00090	Arsenical Resistance Operon Repressor and similar prokaryotic
+gnl|CDD|225872	COG3335	COG3335	Transposase and inactivated derivatives [DNA replication
+gnl|CDD|349326	CD_POL_like	cd18970	chromodomain of Hypsizygus marmoreus TY3B-I_0 protein
+gnl|CDD|349327	CD_POL_like	cd18971	chromodomain of a Magnaporthe grisea putative retrotransposon polyprotein
+gnl|CDD|349300	CD_HP1a_insect	cd18653	chromodomain of insect HP1a.  CHRomatin Organization Modifier (chromo) domain of insect HP1a. HP1a is a member of the heterochromatin protein family
+gnl|CDD|349324	chromodomain	cd18968	CHROMO (CHRromatin Organization Modifier) domain; uncharacterized subgroup.  The chromodomain is a conserved region of about 50 amino acids
+gnl|CDD|349280	CD_Rhino	cd18630	chromodomain of Drosophila melanogaster Rhino
+gnl|CDD|349334	CD_DDE_transposase_like	cd18978	chromodomain of Rhizopus microsporus putative DDE transposases
+gnl|CDD|349320	chromodomain	cd18964	CHROMO (CHRromatin Organization Modifier) domain; uncharacterized subgroup.  The chromodomain is a conserved region of about 50 amino acids
+gnl|CDD|349277	CD_polycomb_like	cd18627	chromodomain of polycomb and chromobox family proteins.  CHRomatin Organization Modifier (chromo) domain of Polycomb and Polycomb-group (PcG) chromobox (CBX) family proteins such as CBX2
+gnl|CDD|349299	CD_HP1gamma_Cbx3	cd18652	chromodomain of heterochromatin protein 1 homolog gamma.  CHRomatin Organization Modifier (chromo) domain of heterochromatin protein 1 homolog gamma (also known as HP1gamma
+gnl|CDD|349318	CD_MT_like	cd18962	chromodomain of a putative Coemansia reversa NRRL 1564 methyltransferase
+gnl|CDD|349321	chromodomain	cd18965	CHROMO (CHRromatin Organization Modifier) domain; uncharacterized subgroup.  The chromodomain is a conserved region of about 50 amino acids
+gnl|CDD|349282	CD_Clr4_like	cd18632	N-terminal chromodomain of the fission yeast histone methyltransferase Clr4
+gnl|CDD|349317	CD_CEC-4_like	cd18961	chromodomain of Caenorhabditis elegans chromodomain protein 4
+gnl|CDD|349295	CD_Cbx6	cd18648	chromodomain of chromobox homolog 6.  CHRomatin Organization Modifier (chromo) domain of chromobox homolog 6 (CBX6)
+gnl|CDD|404270	DDE_Tnp_4	pfam13359	DDE superfamily endonuclease.  This family of proteins are related to pfam00665 and are probably endonucleases of the DDE superfamily. Transposase proteins are necessary for efficient DNA transposition. This domain is a member of the DDE superfamily
+gnl|CDD|371604	LAP2alpha	pfam11560	Lamina-associated polypeptide 2 alpha.  LAPs are components of the nuclear lamina which supports the nuclear envelope.LAP2alpha is a non-membrane-associated member of the LAP family which is unique. This family of proteins is the C terminal domain of LAP2alpha which consists of residues 459-693 and constitutes a dimeric structure with an antiparallel coiled coil. LAP2alpha is involved in cell-cycle regulation and chromatin organisation and preferentially binds to lamin A/C.
+gnl|CDD|397166	Phage_int_SAM_1	pfam02899	Phage integrase
+gnl|CDD|404390	Phage_int_SAM_4	pfam13495	Phage integrase
+gnl|CDD|227308	XerD	COG4974	Site-specific recombinase XerD [DNA replication
+gnl|CDD|234713	xerD	PRK00283	tyrosine recombinase.
+gnl|CDD|367380	DDE_1	pfam03184	DDE superfamily endonuclease.  This family of proteins are related to pfam00665 and are probably endonucleases of the DDE superfamily. Transposase proteins are necessary for efficient DNA transposition. This domain is a member of the DDE superfamily
+gnl|CDD|397365	HTH_Tnp_Tc5	pfam03221	Tc5 transposase DNA-binding domain.
+gnl|CDD|197828	CENPB	smart00674	Putative DNA-binding domain in centromere protein B
+gnl|CDD|366677	HTH_Tnp_Tc3_2	pfam01498	Transposase.  Transposase proteins are necessary for efficient DNA transposition. This family includes the amino-terminal region of Tc1
+gnl|CDD|398835	Peptidase_A17	pfam05380	Pao retrotransposon peptidase.  Corresponds to Merops family A17. These proteins are homologous to aspartic proteinases encoded by retroposons and retroviruses.
+gnl|CDD|281552	DUF1759	pfam03564	Protein of unknown function (DUF1759).  This is a family of proteins of unknown function. Most of the members are gag-polyproteins.
+gnl|CDD|408478	DUF5641	pfam18701	Family of unknown function (DUF5641).  This presumed domain is found in a range of retrotransposon polyproteins.
+gnl|CDD|147642	DUF1758	pfam05585	Putative peptidase (DUF1758).  This is a family of nematode proteins of unknown function. However
+gnl|CDD|234750	PRK00409	PRK00409	recombination and DNA strand exchange inhibitor protein; Reviewed.
+gnl|CDD|276980	PHD_ING	cd15505	PHD finger found in the inhibitor of growth (ING) protein family.  The ING family includes a group of tumor suppressors
+gnl|CDD|277060	PHD_ING3	cd15585	PHD finger found in inhibitor of growth protein 3 (ING3) and similar proteins.  ING3
+gnl|CDD|277061	PHD_ING4_5	cd15586	PHD finger found in inhibitor of growth protein 4 (ING4) and 5 (ING5).  ING4
+gnl|CDD|277154	PHD_ING4	cd15684	PHD finger found in inhibitor of growth protein 4 (ING4).  ING4
+gnl|CDD|235175	PRK03918	PRK03918	DNA double-strand break repair ATPase Rad50.
+gnl|CDD|277155	PHD_ING5	cd15685	PHD finger found in inhibitor of growth protein 5 (ING5).  ING5
+gnl|CDD|276991	PHD2_KDM5A_like	cd15516	PHD finger 2 found in Lysine-specific demethylase KDM5A
+gnl|CDD|276995	PHD3_Lid2p_like	cd15520	PHD finger 3 found in Schizosaccharomyces pombe Lid2 complex component Lid2p and similar proteins.  Lid2p is a trimethyl H3K4 (H3K4me3) demethylase responsible for H3K4 hypomethylation in heterochromatin. It interacts with the histone lysine-9 methyltransferase
+gnl|CDD|277059	PHD_ING1_2	cd15584	PHD finger found in inhibitor of growth protein 1 (ING1) and 2 (ING2).  ING1 is an epigenetic regulator and a type II tumor suppressor that impacts cell growth
+gnl|CDD|277062	PHD_Yng1p_like	cd15587	PHD finger found in yeast orthologs of ING tumor suppressor family.  The yeast orthologs of the plant homeodomain (PHD) finger-containing ING tumor suppressor family consists of chromatin modification-related protein YNG1 (Yng1p)
+gnl|CDD|277033	PHD_Hop1p_like	cd15558	PHD finger found in Schizosaccharomyces pombe meiosis-specific protein hop1 (Hop1p) and similar proteins.  Fission yeast Hop1p
+gnl|CDD|277010	PHD1_Rco1	cd15535	PHD finger 1 found in Saccharomyces cerevisiae transcriptional regulatory protein Rco1 and similar proteins.  Rco1 is a component of the Rpd3S histone deacetylase complex that plays an important role at actively transcribed genes. Rco1 contains two plant homeodomain (PHD) fingers
+gnl|CDD|277079	PHD2_KDM5A	cd15606	PHD finger 2 found in Lysine-specific demethylase 5A (KDM5A).  KDM5A (also termed Histone demethylase JARID1A
+gnl|CDD|404709	TPH	pfam13868	Trichohyalin-plectin-homology domain.  This family is a mixtrue of two different families of eukaryotic proteins. Trichoplein or mitostatin
+gnl|CDD|371998	Baculo_F	pfam12259	Baculovirus F protein.  This protein is found in a variety of baculoviruses. It is known as the F protein. Matches to this family are additionally found in some presumed transposons.
+gnl|CDD|375164	DUF5401	pfam17380	Family of unknown function (DUF5401).  This is a family of unknown function found in Chromadorea.
+gnl|CDD|293879	GBP_C	cd16269	Guanylate-binding protein
+gnl|CDD|276970	PHD_ATX3_4_5_like	cd15495	PHD finger found in Arabidopsis thaliana histone-lysine N-methyltransferase arabidopsis trithorax-like protein ATX3
+gnl|CDD|236545	tolA	PRK09510	cell envelope integrity inner membrane protein TolA; Provisional.
+gnl|CDD|277038	PHD3_PHF14	cd15563	PHD finger 3 found in PHD finger protein 14 (PHF14) and similar proteins.  PHF14 is a novel nuclear transcription factor that controls the proliferation of mesenchymal cells by directly repressing platelet-derived growth factor receptor-alpha (PDGFRalpha) expression. It also acts as an epigenetic regulator and plays an important role in the development of multiple organs in mammals. PHF14 contains three canonical plant homeodomain (PHD) fingers and a non-canonical extended PHD (ePHD) finger
+gnl|CDD|397124	GBP_C	pfam02841	Guanylate-binding protein
+gnl|CDD|225606	TolA	COG3064	Membrane protein involved in colicin uptake [Cell envelope biogenesis
+gnl|CDD|277009	PHD2_PHF12_Rco1	cd15534	PHD finger 2 found in PHD finger protein 12 (PHF12)
+gnl|CDD|273727	Splicing_factor_U2AF_59_kDa_subunit	TIGR01642	U2 snRNP auxilliary factor
+gnl|CDD|273721	transcription_coactivator_CAPER	TIGR01622	splicing factor
+gnl|CDD|133158	RP_Saci_like	cd06094	RP_Saci_like
+gnl|CDD|133146	RP_DDI	cd05479	RP_DDI; retropepsin-like domain of DNA damage inducible protein.  The family represents the retropepsin-like domain of DNA damage inducible protein. DNA damage inducible protein has a retropepsin-like domain and an amino-terminal ubiquitin-like domain and/or a UBA (ubiquitin-associated) domain. This CD represents the retropepsin-like domain of DDI.
+gnl|CDD|349330	CD_POL_like	cd18974	chromodomain of Penicillium solitum protein PENSOL_c198G03123.  This subgroup includes the CHROMO (CHRromatin Organization Modifier) domain found in Penicillium solitum protein PENSOL_c198G03123 a putative polyprotein from a Ty3/Gypsy long terminal repeat (LTR) retroelement. The pol gene in TY3/gypsy elements generally encodes domains in the following order: an aspartyl protease
+gnl|CDD|349336	CD_NC-like	cd18980	chromodomain of a Tasahii var. asahii CBS 8904 retrotransposon nucleocapsid protein
+gnl|CDD|349298	CD_HP1alpha_Cbx5	cd18651	chromodomain of heterochromatin protein 1 homolog alpha.  CHRomatin Organization Modifier (chromo) domain of heterochromatin protein 1 homolog alpha (also known as HP1alpha
+gnl|CDD|349291	CD_polycomb	cd18644	chromodomain of polycomb.  CHRomatin Organization Modifier (chromo) domain of the PcG (polycomb-group) chromodomain protein Polycomb (Pc) from Drosophila melanogaster
+gnl|CDD|349286	CD_Chp1_like	cd18636	chromodomain of chromodomain-containing protein 1
+gnl|CDD|349288	CD_EhHp1_like	cd18638	chromodomain of Entamoeba histolytica heterochromatin protein 1
+gnl|CDD|349283	CD_MMP8	cd18633	chromodomain of M-phase phosphoprotein 8.  The chromodomain of M-phase phosphoprotein 8 (MPP8)
+gnl|CDD|349287	CD_Swi6_like	cd18637	chromodomain of fission yeast Swi6
+gnl|CDD|349333	CD_POL_like	cd18977	chromodomain of a Rhizoctonia solani AG-3 Rhs1AP polyprotein
+gnl|CDD|349284	CD_CDY	cd18634	chromodomain of the Chromodomain Y-like protein family.  This group includes the chromodomain found in the mammalian chromodomain Y-like (CDY) protein family
+gnl|CDD|349294	CD_Cbx2	cd18647	chromodomain of chromobox homolog 2.  CHRomatin Organization Modifier (chromo) domain of chromobox homolog 2 (CBX2)
+gnl|CDD|349328	CD_POL_like	cd18972	chromodomain of a Moniliophthora perniciosa FA553 putative retrotransposon polyprotein
+gnl|CDD|254125	Gypsy	pfam07253	Gypsy protein.  This family consists of several Gypsy/Env proteins from Drosophila and Ceratitis fruit fly species. Gypsy is an endogenous retrovirus of Drosophila melanogaster. Phylogenetic studies suggest that occasional horizontal transfer events of gypsy occur between Drosophila species. Gypsy possesses infective properties associated with the products of the envelope gene that might be at the origin of these interspecies transfers. This family contains many members with full-length matches; however
+gnl|CDD|148888	PRE_C2HC	pfam07530	Associated with zinc fingers.  This function of this domain is unknown and is often found associated with pfam00096.
+gnl|CDD|214951	THAP	smart00980	The THAP domain is a putative DNA-binding domain (DBD) and probably also binds a zinc ion.  It features the conserved C2CH architecture (consensus sequence: Cys - 2-4 residues - Cys - 35-50 residues - Cys - 2 residues - His). Other universal features include the location of the domain at the N-termini of proteins
+gnl|CDD|398893	THAP	pfam05485	THAP domain.  The THAP domain is a putative DNA-binding domain (DBD) and probably also binds a zinc ion. It features the conserved C2CH architecture (consensus sequence: Cys - 2-4 residues - Cys - 35-50 residues - Cys - 2 residues - His). Other universal features include the location of the domain at the N-termini of proteins
+gnl|CDD|350795	DEXSc_Pif1_like	cd18037	DEAD-box helicase domain of Pif1.  Pif1 and other members of this family are RecD-like helicases involved in maintaining genome stability through unwinding double-stranded DNAs (dsDNAs)
+gnl|CDD|399159	PIF1	pfam05970	PIF1-like helicase.  This family includes homologs of the PIF1 helicase
+gnl|CDD|350196	SF1_C_RecD	cd18809	C-terminal helicase domain of RecD family helicases.  RecD is a member of the RecBCD (EC 3.1.11.5
+gnl|CDD|223040	PHA03311	PHA03311	helicase-primase subunit BBLF4; Provisional.
+gnl|CDD|223581	RecD	COG0507	ATP-dependent exoDNAse (exonuclease V)
+gnl|CDD|350691	DEXSc_RecD-like	cd17933	DEXS-box helicase domain of RecD and similar proteins.  RecD is a member of the RecBCD (EC 3.1.11.5
+gnl|CDD|350692	DEXXQc_Upf1-like	cd17934	DEXXQ-box helicase domain of Upf1-like helicase.  The Upf1-like helicase family includes UPF1
+gnl|CDD|280797	Herpes_Helicase	pfam02689	Helicase.  This family consists of Helicases from the Herpes viruses. Helicases are responsible for the unwinding of DNA and are essential for replication and completion of the viral life cycle.
+gnl|CDD|350173	SF1_C	cd18786	C-terminal helicase domain of superfamily 1 DEAD/H-box helicases.  Superfamily (SF)1 family members include UvrD/Rep
+gnl|CDD|350672	DExxQc_SF1-N	cd17914	DEXQ-box helicase domain of superfamily 1 helicase.  The superfamily (SF)1 family members include UvrD/Rep
+gnl|CDD|404490	AAA_30	pfam13604	AAA domain.  This family of domains contain a P-loop motif that is characteristic of the AAA superfamily. Many of the proteins in this family are conjugative transfer proteins. There is a Walker A and Walker B.
+gnl|CDD|404430	UvrD_C_2	pfam13538	UvrD-like helicase C-terminal domain.  This domain is found at the C-terminus of a wide variety of helicase enzymes. This domain has a AAA-like structural fold.
+gnl|CDD|404182	AAA_19	pfam13245	AAA domain.
+gnl|CDD|128933	DM3	smart00692	Zinc finger domain in CG10631
+gnl|CDD|402258	MADF_DNA_bdg	pfam10545	Alcohol dehydrogenase transcription factor Myb/SANT-like.  The myb/SANT-like domain in Adf-1 (MADF) is an approximately 80-amino-acid module that directs sequence specific DNA binding to a site consisting of multiple tri-nucleotide repeats. The MADF domain is found in one or more copies in eukaryotic and viral proteins and is often associated with the BESS domain. It is likely that the MADF domain is more closely related to the myb/SANT domain than it is to other HTH domains.
+gnl|CDD|214738	MADF	smart00595	subfamily of SANT domain.
+gnl|CDD|396567	SAP	pfam02037	SAP domain.  The SAP (after SAF-A/B
+gnl|CDD|128789	SAP	smart00513	Putative DNA-binding (bihelical) motif predicted to be involved in chromosomal organisation.
+gnl|CDD|275316	conserved_hypothetical_protein	TIGR04523	helix-rich Mycoplasma protein.  Members of this family occur strictly within a subset of Mycoplasma species. Members average 750 amino acids in length
+gnl|CDD|226809	COG4372	COG4372	Uncharacterized protein conserved in bacteria with the myosin-like domain [Function unknown].
+gnl|CDD|411418	ser_rich_anae_1	NF033849	serine-rich protein.  This serine-rich protein belongs to a family with large size (over 1000 amino acids)
+gnl|CDD|404768	HTH_38	pfam13936	Helix-turn-helix domain.  This helix-turn-helix domain is often found in transferases and is likely to be DNA-binding.
+gnl|CDD|397159	zf-BED	pfam02892	BED zinc finger.
+gnl|CDD|404676	PHD_2	pfam13831	PHD-finger.  PHD folds into an interleaved type of Zn-finger chelating 2 Zn ions in a similar manner to that of the RING and FYVE domains. Several PHD fingers have been identified as binding modules of methylated histone H3.
+gnl|CDD|277017	PHD_UBR7	cd15542	PHD finger found in putative E3 ubiquitin-protein ligase UBR7.  UBR7
+gnl|CDD|277021	PHD_PHF13_like	cd15546	PHD finger found in PHD finger proteins PHF13 and PHF23.  PHF13
+gnl|CDD|223496	SbcC	COG0419	ATPase involved in DNA repair [DNA replication
+gnl|CDD|276972	PHD1_Snt2p_like	cd15497	PHD finger 1 found in Saccharomyces cerevisiae SANT domain-containing protein 2 (Snt2p) and similar proteins.  Snt2p is a yeast protein that may function in multiple stress pathways. It coordinates the transcriptional response to hydrogen peroxide-mediated oxidative stress through interaction with Ecm5 and the Rpd3 deacetylase. Snt2p contains a bromo adjacent homology (BAH) domain
+gnl|CDD|277112	PHD_PHF8	cd15642	PHD finger found in histone lysine demethylase PHF8.  PHF8
+gnl|CDD|277111	PHD_PHF2	cd15641	PHD finger found in lysine-specific demethylase PHF2.  PHF2
+gnl|CDD|276981	PHD1_KMT2A_like	cd15506	PHD finger 1 found in histone-lysine N-methyltransferase 2A (KMT2A) and 2B (KMT2B).  This family includes histone-lysine N-methyltransferase trithorax (Trx) like proteins
+gnl|CDD|277156	PHD3_KDM5A	cd15686	PHD finger 3 found in Lysine-specific demethylase 5A (KDM5A).  KDM5A
+gnl|CDD|276974	PHD1_MTF2_PHF19_like	cd15499	PHD finger 1 found in polycomb repressive complex 2 (PRC2)-associated polycomb-like (PCL) family proteins MTF2
+gnl|CDD|227367	TNG2	COG5034	Chromatin remodeling protein
+gnl|CDD|277102	PHD_PHF13	cd15632	PHD finger found in PHD finger protein 13 (PHF13).  PHF13
+gnl|CDD|277104	PHD_PHF20	cd15634	PHD finger found in PHD finger protein 20 (PHF20).  PHF20
+gnl|CDD|277023	PHD_ASH1L	cd15548	PHD finger found in histone-lysine N-methyltransferase ASH1L.  ASH1L
+gnl|CDD|276986	PHD3_KMT2C	cd15511	PHD finger 3 found in Histone-lysine N-methyltransferase 2C (KMT2C).  KMT2C
+gnl|CDD|350678	DEXHc_RecQ	cd17920	DEXH-box helicase domain of RecQ family proteins.  The RecQ family of the type II DEAD box helicase superfamily is a family of highly conserved DNA repair helicases. This domain contains the ATP-binding region.
+gnl|CDD|223588	RecQ	COG0514	Superfamily II DNA helicase [DNA replication
+gnl|CDD|350776	DEXHc_RecQ4-like	cd18018	DEAH-box helicase domain of RecQ4 and similar proteins.  ATP-dependent DNA helicase Q4 (RecQ4) is part of the RecQ family of highly conserved DNA repair helicases that is part of the type II DEAD box helicase superfamily
+gnl|CDD|182933	PRK11057	PRK11057	ATP-dependent DNA helicase RecQ; Provisional.
+gnl|CDD|350773	DEXHc_RecQ1	cd18015	DEXH-box helicase domain of RecQ1.  ATP-dependent DNA helicase Q1 (RecQ1) is part of the RecQ family of highly conserved DNA repair helicases that is part of the type II DEAD box helicase superfamily
+gnl|CDD|395208	DEAD	pfam00270	DEAD/DEAH box helicase.  Members of this family include the DEAD and DEAH box helicases. Helicases are involved in unwinding nucleic acids. The DEAD box helicases are involved in various aspects of RNA metabolism
+gnl|CDD|238046	HX	cd00094	Hemopexin-like repeats.; Hemopexin is a heme-binding protein that transports heme to the liver. Hemopexin-like repeats occur in vitronectin and some matrix metalloproteinases family (matrixins). The HX repeats of some matrixins bind tissue inhibitor of metalloproteinases (TIMPs). This CD contains 4 instances of the repeat.
+gnl|CDD|350774	DEXHc_RecQ2_BLM	cd18016	DEAH-box helicase domain of RecQ2.  ATP-dependent DNA helicase Q2 (RecQ2
+gnl|CDD|350772	DEXHc_RecQ5	cd18014	DEAH-box helicase domain of RecQ5.  ATP-dependent DNA helicase Q5 (RecQ5) is part of the RecQ family of highly conserved DNA repair helicases that is part of the type II DEAD box helicase superfamily
+gnl|CDD|350775	DEXHc_RecQ3	cd18017	DEAH-box helicase domain of RecQ3.  DEAD-like helicase RecQ3 (also called Werner syndrome ATP-dependent helicase or WRN) is part of the RecQ family of highly conserved DNA repair helicases that is part of the type II DEAD box helicase superfamily
+gnl|CDD|275163	hypothetical_protein	TIGR04370	oligosaccharide repeat unit polymerase.  Members of this subfamily of highly hydrophobic proteins
+gnl|CDD|404714	Myb_DNA-bind_5	pfam13873	Myb/SANT-like DNA-binding domain.  This presumed domain appears to be related to other Myb/SANT like DNA binding domains. This family is greatly expanded in arthropods and higher eukaryotes.
+gnl|CDD|408440	zf-C2H2_12	pfam18658	Zinc-finger C2H2-type.  This is a zinc finger domain C2H2 type which can be found in SPIN1 docking protein (SPIN-DOC) and Epm2a-interacting protein 1 (Epm2aip1). SPIN-DOC is a Spindlin1 (SPIN1) regulator that directly binds and strongly disrupts its histone methylation reading ability
+gnl|CDD|277037	PHD2_PHF14	cd15562	PHD finger 2 found in PHD finger protein 14 (PHF14) and similar proteins.  PHF14 is a novel nuclear transcription factor that controls the proliferation of mesenchymal cells by directly repressing platelet-derived growth factor receptor-alpha (PDGFRalpha) expression. It also acts as an epigenetic regulator and plays an important role in the development of multiple organs in mammals. PHF14 contains three canonical plant homeodomain (PHD) fingers and a non-canonical extended PHD (ePHD) finger
+gnl|CDD|277101	PHD_PHF23	cd15631	PHD finger found in PHD finger protein 23 (PHF23).  PHF23
+gnl|CDD|397844	OmpH	pfam03938	Outer membrane protein (OmpH-like).  This family includes outer membrane proteins such as OmpH among others. Skp (OmpH) has been characterized as a molecular chaperone that interacts with unfolded proteins as they emerge in the periplasm from the Sec translocation machinery.
+gnl|CDD|214922	OmpH	smart00935	Outer membrane protein (OmpH-like).  This family includes outer membrane proteins such as OmpH among others. Skp (OmpH) has been characterized as a molecular chaperone that interacts with unfolded proteins as they emerge in the periplasm from the Sec translocation machinery.
+gnl|CDD|185710	Adenylation_DNA_ligase_I_Euk	cd07900	Adenylation domain of eukaryotic DNA Ligase I.  ATP-dependent polynucleotide ligases catalyze phosphodiester bond formation using nicked nucleic acid substrates with the high energy nucleotide of ATP as a cofactor in a three step reaction mechanism. DNA ligases play a vital role in the diverse processes of DNA replication
+gnl|CDD|215061	PLN00113	PLN00113	leucine-rich repeat receptor-like protein kinase; Provisional.
+gnl|CDD|237989	BIR	cd00022	Baculoviral inhibition of apoptosis protein repeat domain; Found in inhibitors of apoptosis proteins (IAPs) and other proteins. In higher eukaryotes
+gnl|CDD|395528	BIR	pfam00653	Inhibitor of Apoptosis domain.  BIR stands for 'Baculovirus Inhibitor of apoptosis protein Repeat'. It is found repeated in inhibitor of apoptosis proteins (IAPs)
+gnl|CDD|197595	BIR	smart00238	Baculoviral inhibition of apoptosis protein repeat.  Domain found in inhibitor of apoptosis proteins (IAPs) and other proteins. Acts as a direct inhibitor of caspase enzymes.
+gnl|CDD|319627	RING-HC_BIRC2_3_7	cd16713	RING finger
+gnl|CDD|319628	RING-HC_BIRC4_8	cd16714	RING finger
+gnl|CDD|212675	HSPA1-2_6-8-like_NBD	cd10233	Nucleotide-binding domain of HSPA1-A
+gnl|CDD|212681	HSPA5-like_NBD	cd10241	Nucleotide-binding domain of human HSPA5 and similar proteins.  This subfamily includes human HSPA5 (also known as 70-kDa heat shock protein 5
+gnl|CDD|234715	dnaK	PRK00290	molecular chaperone DnaK; Provisional.
+gnl|CDD|240227	PTZ00009	PTZ00009	heat shock 70 kDa protein; Provisional.
+gnl|CDD|394970	HSP70	pfam00012	Hsp70 protein.  Hsp70 chaperones help to fold many proteins. Hsp70 assisted folding involves repeated cycles of substrate binding and release. Hsp70 activity is ATP dependent. Hsp70 proteins are made up of two regions: the amino terminus is the ATPase domain and the carboxyl terminus is the substrate binding region.
+gnl|CDD|212683	HSPA9-like_NBD	cd11733	Nucleotide-binding domain of human HSPA9
+gnl|CDD|212676	HSPA9-Ssq1-like_NBD	cd10234	Nucleotide-binding domain of human HSPA9 and similar proteins.  This subfamily includes human mitochondrial HSPA9 (also known as 70-kDa heat shock protein 9
+gnl|CDD|212667	HSP70_NBD	cd10170	Nucleotide-binding domain of the HSP70 family.  HSP70 (70-kDa heat shock protein) family chaperones assist in protein folding and assembly and can direct incompetent ""client"" proteins towards degradation. Typically
+gnl|CDD|212684	Ssq1_like_NBD	cd11734	Nucleotide-binding domain of Saccharomyces cerevisiae Ssq1 and similar proteins.  Ssq1p (also called Stress-seventy subfamily Q protein 1
+gnl|CDD|240403	PTZ00400	PTZ00400	DnaK-type molecular chaperone; Provisional.
+gnl|CDD|212670	HSPA4_like_NDB	cd10228	Nucleotide-binding domain of 105/110 kDa heat shock proteins including HSPA4 and similar proteins.  This subgroup includes the human proteins
+gnl|CDD|184039	PRK13411	PRK13411	molecular chaperone DnaK; Provisional.
+gnl|CDD|223520	DnaK	COG0443	Molecular chaperone [Posttranslational modification
+gnl|CDD|184038	PRK13410	PRK13410	molecular chaperone DnaK; Provisional.
+gnl|CDD|214360	dnaK	CHL00094	heat shock protein 70.
+gnl|CDD|212677	HscC_like_NBD	cd10235	Nucleotide-binding domain of Escherichia coli HscC and similar proteins.  This subfamily  includes Escherichia coli HscC (also called heat shock cognate protein C
+gnl|CDD|140213	PTZ00186	PTZ00186	heat shock 70 kDa precursor protein; Provisional.
+gnl|CDD|212678	HscA_like_NBD	cd10236	Nucleotide-binding domain of HscA and similar proteins.  Escherichia coli HscA (heat shock cognate protein A
+gnl|CDD|215618	PLN03184	PLN03184	chloroplast Hsp70; Provisional.
+gnl|CDD|235360	hscA	PRK05183	chaperone protein HscA; Provisional.
+gnl|CDD|212679	HSPA13-like_NBD	cd10237	Nucleotide-binding domain of human HSPA13 and similar proteins.  Human HSPA13 (also called 70-kDa heat shock protein 13
+gnl|CDD|212689	HSPH1_NBD	cd11739	Nucleotide-binding domain of HSPH1.  Human HSPH1 (also known as heat shock 105kDa/110kDa protein 1
+gnl|CDD|212680	HSPA14-like_NBD	cd10238	Nucleotide-binding domain of human HSPA14 and similar proteins.  Human HSPA14 (also known as 70-kDa heat shock protein 14
+gnl|CDD|212672	HYOU1-like_NBD	cd10230	Nucleotide-binding domain of human HYOU1 and similar proteins.  This subgroup includes human HYOU1 (also known as human hypoxia up-regulated 1
+gnl|CDD|212687	HSPA4_NBD	cd11737	Nucleotide-binding domain of HSPA4.  Human HSPA4 (also known as 70-kDa heat shock protein 4
+gnl|CDD|212674	ScSsz1p_like_NBD	cd10232	Nucleotide-binding domain of Saccharmomyces cerevisiae Ssz1pp and similar proteins.  Saccharomyces cerevisiae Ssz1p (also known as /Pdr13p/YHR064C) belongs to the heat shock protein 70 (HSP70) family of chaperones that assist in protein folding and assembly and can direct incompetent ""client"" proteins towards degradation. Typically
+gnl|CDD|212682	HSP105-110_like_NBD	cd11732	Nucleotide-binding domain of 105/110 kDa heat shock proteins including HSPA4
+gnl|CDD|234955	hscA	PRK01433	chaperone protein HscA; Provisional.
+gnl|CDD|212673	YegD_like	cd10231	Escherichia coli YegD
+gnl|CDD|395704	Innexin	pfam00876	Innexin.  This family includes the Drosophila proteins Ogre and shaking-B
+gnl|CDD|165115	PHA02748	PHA02748	viral inexin-like protein; Provisional.
+gnl|CDD|198412	BI-1	cd10430	BAX inhibitor (BI)-1.  Mammalian members of the BAX inhibitor (BI)-1 like family of small transmembrane proteins have been shown to have an antiapoptotic effect either by stimulating the antiapoptotic function of Bcl-2
+gnl|CDD|185712	Adenylation_DNA_ligase_III	cd07902	Adenylation domain of DNA Ligase III.  ATP-dependent polynucleotide ligases catalyze phosphodiester bond formation using nicked nucleic acid substrates with the high energy nucleotide of ATP as a cofactor in a three-step reaction mechanism. DNA ligases play a vital role in the diverse processes of DNA replication
+gnl|CDD|395849	DNA_ligase_A_M	pfam01068	ATP dependent DNA ligase domain.  This domain belongs to a more diverse superfamily
+gnl|CDD|224706	CDC9	COG1793	ATP-dependent DNA ligase [DNA replication
+gnl|CDD|199909	DnaJ_C	cd10747	C-terminal substrate binding domain of DnaJ and HSP40.  The C-terminal region of the DnaJ/Hsp40 protein mediates oligomerization and binding to denatured polypeptide substrate. DnaJ/Hsp40 is a widely conserved heat-shock protein. It prevents the aggregation of unfolded substrate and forms a ternary complex with both substrate and DnaK/Hsp70; the N-terminal J-domain of DnaJ/Hsp40 stimulates the ATPase activity of DnaK/Hsp70.
+gnl|CDD|273147	DNA_ligase	TIGR00574	DNA ligase I
+gnl|CDD|396231	DnaJ_C	pfam01556	DnaJ C terminal domain.  This family consists of the C terminal region of the DnaJ protein. It is always found associated with pfam00226 and pfam00684. DnaJ is a chaperone associated with the Hsp70 heat-shock system involved in protein folding and renaturation after stress. The two C-terminal domains CTDI and CTDII
+gnl|CDD|185709	Adenylation_DNA_ligase	cd07898	Adenylation domain of ATP-dependent DNA Ligases.  ATP-dependent polynucleotide ligases catalyze phosphodiester bond formation using nicked nucleic acid substrates with the high energy nucleotide of ATP as a cofactor in a three step reaction mechanism. DNA ligases play a vital role in the diverse processes of DNA replication
+gnl|CDD|185711	Adenylation_DNA_ligase_Arch_LigB	cd07901	Adenylation domain of archaeal and bacterial LigB-like DNA ligases.  ATP-dependent polynucleotide ligases catalyze phosphodiester bond formation using nicked nucleic acid substrates with the high energy nucleotide of ATP as a cofactor in a three step reaction mechanism. DNA ligases play a vital role in the diverse processes of DNA replication
+gnl|CDD|234900	PRK01109	PRK01109	ATP-dependent DNA ligase; Provisional.
+gnl|CDD|395170	DnaJ	pfam00226	DnaJ domain.  DnaJ domains (J-domains) are associated with hsp70 heat-shock system and it is thought that this domain mediates the interaction. DnaJ-domain is therefore part of a chaperone (protein folding) system. The T-antigens
+gnl|CDD|185713	Adenylation_DNA_ligase_IV	cd07903	Adenylation domain of DNA Ligase IV.  ATP-dependent polynucleotide ligases catalyze phosphodiester bond formation using nicked nucleic acid substrates with the high energy nucleotide of ATP as a cofactor in a three step reaction mechanism. DNA ligases play a vital role in the diverse processes of DNA replication
+gnl|CDD|197617	DnaJ	smart00271	DnaJ molecular chaperone homology domain.
+gnl|CDD|223560	DnaJ	COG0484	DnaJ-class molecular chaperone with C-terminal Zn finger domain [Posttranslational modification
+gnl|CDD|99751	DnaJ	cd06257	DnaJ domain or J-domain.  DnaJ/Hsp40 (heat shock protein 40) proteins are highly conserved and play crucial roles in protein translation
+gnl|CDD|200498	Sema_1A	cd11237	The Sema domain
+gnl|CDD|214747	Sema	smart00630	semaphorin domain.
+gnl|CDD|396125	Sema	pfam01403	Sema domain.  The Sema domain occurs in semaphorins
+gnl|CDD|200530	Sema_6D	cd11269	The Sema domain
+gnl|CDD|200503	Sema_6	cd11242	The Sema domain
+gnl|CDD|200495	Sema	cd09295	The Sema domain
+gnl|CDD|238352	TBP_TLF	cd00652	TATA box binding protein (TBP): Present in archaea and eukaryotes
+gnl|CDD|239952	TBP_eukaryotes	cd04516	eukaryotic TATA box binding protein (TBP): Present in archaea and eukaryotes
+gnl|CDD|128863	PRE_C2HC	smart00596	PRE_C2HC domain.
+gnl|CDD|397234	Transposase_21	pfam02992	Transposase family tnp2.
+gnl|CDD|404786	DUF4218	pfam13960	Domain of unknown function (DUF4218).
+gnl|CDD|404789	Transpos_assoc	pfam13963	Transposase-associated domain.
+gnl|CDD|404780	DUF4216	pfam13952	Domain of unknown function (DUF4216).  This DUF is sometimes found at the C-terminal end of proteins carrying a Transposase_21 domain
+gnl|CDD|367291	Transposase_24	pfam03004	Plant transposase (Ptta/En/Spm family).  Transposase proteins are necessary for efficient DNA transposition. This family includes various plant transposases from the Ptta and En/Spm families.
+gnl|CDD|133148	retropepsin_like_LTR_1	cd05481	Retropepsins_like_LTR; pepsin-like aspartate protease from retrotransposons with long terminal repeats.  Retropepsin of retrotransposons with long terminal repeats are pepsin-like aspartate proteases. While fungal and mammalian pepsins are bilobal proteins with structurally related N and C-terminals
+gnl|CDD|312981	Asp_protease	pfam09668	Aspartyl protease.  This family of eukaryotic aspartyl proteases have a fold similar to retroviral proteases which implies they function proteolytically during regulated protein turnover.
+gnl|CDD|197372	RSV-like_HR1-HR2	cd09949	heptad repeat 1-heptad repeat 2 region (ectodomain) of the transmembrane subunit of Rous sarcoma virus (RSV)
+gnl|CDD|197371	Ebola_RSV-like_HR1-HR2	cd09948	heptad repeat 1-heptad repeat 2 region of the transmembrane subunit of various endogenous retroviruses (ERVs) and infectious retroviruses
+gnl|CDD|281671	Avian_gp85	pfam03708	Avian retrovirus envelope protein
+gnl|CDD|306850	TLV_coat	pfam00429	ENV polyprotein (coat polyprotein).
+gnl|CDD|197368	HTLV-1-like_HR1-HR2	cd09851	heptad repeat 1-heptad repeat 2 region (ectodomain) of the transmembrane subunit of human T-cell leukemia virus type 1 (HTLV-1)
+gnl|CDD|279277	Hepatitis_core	pfam00906	Hepatitis core antigen.  The core antigen of hepatitis viruses possesses a carboxyl terminus rich in arginine. On this basis it was predicted that the core antigen would bind DNA. There is some experimental evidence to support this.
+gnl|CDD|366036	DNA_pol_viral_C	pfam00336	DNA polymerase (viral) C-terminal domain.
+gnl|CDD|365972	DNA_pol_viral_N	pfam00242	DNA polymerase (viral) N-terminal domain.
+gnl|CDD|366252	vMSA	pfam00695	Major surface antigen from hepadnavirus.
+gnl|CDD|404916	DUF4283	pfam14111	Domain of unknown function (DUF4283).  This domain family is found in plants
+gnl|CDD|276807	SLR	sd00010	Sel1-like repeat.  Sel1-like repeats (SLRs) share similar alpha-helical conformations with Tetratricopeptide repeats (TPRs)
+gnl|CDD|223861	COG0790	COG0790	FOG: TPR repeat
+gnl|CDD|293786	ANK	sd00045	ankyrin repeats.  Ankyrin repeats are one of the most abundant repeat motifs
+gnl|CDD|403870	Ank_2	pfam12796	Ankyrin repeats (3 copies).
+gnl|CDD|372654	Ank_4	pfam13637	Ankyrin repeats (many copies).
+gnl|CDD|238121	WD40	cd00200	WD40 domain
+gnl|CDD|197651	WD40	smart00320	WD40 repeats.  Note that these repeats are permuted with respect to the structural repeats (blades) of the beta propeller domain.
+gnl|CDD|395323	WD40	pfam00400	WD domain
+gnl|CDD|197757	HELICc	smart00490	helicase superfamily c-terminal domain.
+gnl|CDD|350174	SF2_C_DEAD	cd18787	C-terminal helicase domain of the DEAD box helicases.  DEAD-box helicases comprise a diverse family of proteins involved in ATP-dependent RNA unwinding
+gnl|CDD|395209	Helicase_C	pfam00271	Helicase conserved C-terminal domain.  The Prosite family is restricted to DEAD/H helicases
+gnl|CDD|396314	Cauli_VI	pfam01693	Caulimovirus viroplasmin.  This family consists of various caulimovirus viroplasmin proteins. The viroplasmin protein is encoded by gene VI and is the main component of viral inclusion bodies or viroplasms. Inclusions are the site of viral assembly
+gnl|CDD|214692	DEXDc	smart00487	DEAD-like helicases superfamily.
+gnl|CDD|223587	SrmB	COG0513	Superfamily II DNA and RNA helicases [DNA replication
+gnl|CDD|403855	Myb_DNA-bind_3	pfam12776	Myb/SANT-like DNA-binding domain.  This presumed domain appears to be related to other Myb/SANT like DNA binding domains. In particular pfam10545 seems most related. This family is greatly expanded in plants and appears in several proteins annotated as transposon proteins.
+gnl|CDD|380997	SET_SMYD	cd20071	SET domain (including SET domain and post-SET domain) found in SET and MYND domain-containing protein
+gnl|CDD|130684	hypothetical_protein	TIGR01623	putative zinc finger domain
+gnl|CDD|275370	ZF_C2H2	sd00019	Zinc finger
+gnl|CDD|275368	ZF_C2H2	sd00017	Zinc finger
+gnl|CDD|75628	PRK06548	PRK06548	ribonuclease H; Provisional.
+gnl|CDD|380941	SET_EHMT	cd10543	SET domain (including pre-SET and post-SET domains) found in euchromatic histone-lysine N-methyltransferase EHMT1
+gnl|CDD|380945	SET_EZH-like	cd19168	SET domain found in enhancer of zeste homolog 1 (EZH1) and zeste homolog 2 (EZH2) of polycomb repressive complex 2 (PRC2)
+gnl|CDD|380933	SET_EHMT1	cd10535	SET domain (including pre-SET and post-SET domains) found in euchromatic histone-lysine N-methyltransferase 1 (EHMT1) and similar proteins.  EHMT1 (also termed Eu-HMTase1
+gnl|CDD|225491	COG2940	COG2940	Proteins containing SET domain [General function prediction only].
+gnl|CDD|380931	SET_EHMT2	cd10533	SET domain (including pre-SET and post-SET domains) found in euchromatic histone-lysine N-methyltransferase 2 (EHMT2) and similar proteins.  EHMT2 (also termed Eu-HMTase2
+gnl|CDD|380927	SET_SETD5-like	cd10529	SET domain found in SET domain-containing protein 5 (SETD5)
+gnl|CDD|395415	GP41	pfam00517	Retroviral envelope protein.  This family includes envelope protein from a variety of retroviruses. It includes the GP41 subunit of the envelope protein complex from human and simian immunodeficiency viruses (HIV and SIV) which mediate membrane fusion during viral entry. The family also includes bovine immunodeficiency virus
+gnl|CDD|396766	Gag_p10	pfam02337	Retroviral GAG p10 protein.  This family consists of various retroviral GAG (core) polyproteins and encompasses the p10 region producing the p10 protein upon proteolytic cleavage of GAG by retroviral protease. The p10 or matrix protein (MA) is associated with the virus envelope glycoproteins in most mammalian retroviruses and may be involved in virus particle assembly
+gnl|CDD|197369	HIV-1-like_HR1-HR2	cd09909	heptad repeat 1-heptad repeat 2 region (ectodomain) of the gp41 subunit of human immunodeficiency virus (HIV-1)
+gnl|CDD|240288	PTZ00143	PTZ00143	deoxyuridine 5'-triphosphate nucleotidohydrolase; Provisional.
+gnl|CDD|222996	PHA03131	PHA03131	dUTPase; Provisional.
+gnl|CDD|282070	Borrelia_orfX	pfam04160	Orf-X protein.  This short protein has no known function and is found in Jaagsiekte sheep retrovirus. Jaagsiekte sheep retrovirus (JSRV) is the etiological agent of a contagious lung tumor of sheep known as sheep pulmonary adenomatosis. JSRV exhibits a simple genetic organisation
+gnl|CDD|236334	PRK08719	PRK08719	ribonuclease H; Reviewed.
+gnl|CDD|260014	RNase_H_Dikarya_like	cd13934	Fungal (dikarya) Ribonuclease H
+gnl|CDD|197374	HERV-Rb-like_HR1-HR2	cd09951	heptad repeat 1- heptad repeat 2 region (ectodomain) of the transmembrane subunit of the human endogenous retrovirus HERV-R(b)_c3p24.3 and related domains.  This domain subfamily spans both heptad repeats of the glycoprotein (gp)/transmembrane subunit of various endogenous retroviruses (ERVs) including the human ERVs (HERVs): HERV-R(b)_c3p24.3 and Syncytin-3 (also known as HERV-P(b)_c14q32.12). This domain belongs to a larger superfamily containing the HR1-HR2 domain of endogenous retroviruses (ERVs) and infectious retroviruses
+gnl|CDD|197370	Ebola_HIV-1-like_HR1-HR2	cd09947	heptad repeat 1-heptad repeat 2 region (ectodomain) of the transmembrane subunit of various endogenous retroviruses (ERVs) and infectious retroviruses
+gnl|CDD|396597	Gag_p30	pfam02093	Gag P30 core shell protein.  According to Swiss-Prot annotation this protein is the viral core shell protein. P30 is essential for viral assembly.
+gnl|CDD|395907	Gag_MA	pfam01140	Matrix protein (MA)
+gnl|CDD|293326	zf-H3C2	pfam16721	Zinc-finger like
+gnl|CDD|292323	HERV-K_REC	pfam15695	Rec (regulator of expression encoded by corf) of HERV-K-113.  REC is a family of rec proteins from the HERV-K viral polyprotein family. Rec is a functional homolog of Rev and Rex
+gnl|CDD|290518	HERV-K_env_2	pfam13804	Retro-transcribing viruses envelope glycoprotein.  This family comes from human endogenous retrovirus K envelope glycoproteins.
+gnl|CDD|234753	dcd	PRK00416	deoxycytidine triphosphate deaminase; Reviewed.
+gnl|CDD|107053	dut	PHA01707	2'-deoxyuridine 5'-triphosphatase.
+gnl|CDD|179395	PRK02253	PRK02253	deoxyuridine 5'-triphosphate nucleotidohydrolase; Provisional.
+gnl|CDD|372242	G-patch_2	pfam12656	G-patch domain.  Yeast Spp2
+gnl|CDD|366439	MMTV_SAg	pfam01054	Mouse mammary tumor virus superantigen.  The mouse mammary tumor virus (MMTV) is a milk-transmitted type B retrovirus. The superantigen (SAg) is encoded by the long terminal repeat. The SAgs are also called PR73.
+gnl|CDD|165429	PHA03158	PHA03158	hypothetical protein; Provisional.
+gnl|CDD|179699	PRK03992	PRK03992	proteasome-activating nucleotidase; Provisional.
+gnl|CDD|283007	HTH_psq	pfam05225	helix-turn-helix
+gnl|CDD|404983	Helitron_like_N	pfam14214	Helitron helicase-like domain at N-terminus.  This family is found in Helitrons
+gnl|CDD|236783	recD	PRK10875	exodeoxyribonuclease V subunit alpha.
+gnl|CDD|379165	AAA_22	pfam13401	AAA domain.
+gnl|CDD|398548	DUF659	pfam04937	Protein of unknown function (DUF 659).  Transposase-like protein with no known function.
+gnl|CDD|288840	Tnp_P_element	pfam12017	Transposase protein.  Protein in this family are transposases found in insects. This region is about 230 amino acids in length and is found associated with pfam05485.
+gnl|CDD|396767	OTU	pfam02338	OTU-like cysteine protease.  This family is comprised of a group of predicted cysteine proteases
+gnl|CDD|234767	polC	PRK00448	DNA polymerase III PolC; Validated.
+gnl|CDD|398066	CENP-B_N	pfam04218	CENP-B N-terminal DNA-binding domain.  Centromere Protein B (CENP-B) is a DNA-binding protein localized to the centromere. Within the N-terminal 125 residues
+gnl|CDD|349290	CD_Chro-like	cd18640	chromodomain of Drosophila melanogaster chromator chromodomain protein
+gnl|CDD|349285	CD_CMT3_like	cd18635	chromodomain of chromomethylase 3
+gnl|CDD|238168	MATH_TRAF_C	cd00270	Tumor Necrosis Factor Receptor (TNFR)-Associated Factor (TRAF) family
+gnl|CDD|239749	MATH_TRAF5	cd03780	Tumor Necrosis Factor Receptor (TNFR)-Associated Factor (TRAF) family
+gnl|CDD|153421	SCAN	cd07936	SCAN oligomerization domain.  The SCAN domain (named after SRE-ZBP
+gnl|CDD|396558	SCAN	pfam02023	SCAN domain.  The SCAN domain (named after SRE-ZBP
+gnl|CDD|128708	SCAN	smart00431	leucine rich region.
+gnl|CDD|349293	CD_Cbx7	cd18646	chromodomain of chromobox homolog 7.  CHRomatin Organization Modifier (chromo) domain of chromobox homolog 7 (CBX7)
+gnl|CDD|349292	CD_Cbx4	cd18645	chromodomain of chromobox homolog 4.  CHRomatin Organization Modifier (chromo) domain of chromobox homolog 4 (CBX4)
+gnl|CDD|349296	CD_Cbx8	cd18649	chromodomain of chromobox homolog 8.  CHRomatin Organization Modifier (chromo) domain of chromobox homolog 8 (CBX8)
+gnl|CDD|406657	DUF4939	pfam16297	Domain of unknown function (DUF4939).  This family consists of uncharacterized proteins around 110 residues in length and is mainly found in various mammalia species. LDOC1
+gnl|CDD|349279	CD2_cpSRP43_like	cd18629	chromodomain 2 of chloroplast signal recognition particle 43 kDa protein
+gnl|CDD|396114	Collagen	pfam01391	Collagen triple helix repeat (20 copies).  Members of this family belong to the collagen superfamily. Collagens are generally extracellular structural proteins involved in formation of connective tissue structure. The alignment contains 20 copies of the G-X-Y repeat that forms a triple helix. The first position of the repeat is glycine
+gnl|CDD|349319	chromodomain	cd18963	CHROMO (CHRromatin Organization Modifier) domain; uncharacterized subgroup.  The chromodomain is a conserved region of about 50 amino acids
+gnl|CDD|181829	PRK09409	PRK09409	IS2 transposase TnpB; Reviewed.
+gnl|CDD|237792	PRK14702	PRK14702	insertion element IS2 transposase InsD; Provisional.
+gnl|CDD|402250	PMD	pfam10536	Plant mobile domain.  This domain was identified by Babu and colleagues in a variety of transposases.
+gnl|CDD|277080	PHD2_KDM5B	cd15607	PHD finger 2 found in lysine-specific demethylase 5B (KDM5B).  KDM5B (also termed Cancer/testis antigen 31 (CT31)
+gnl|CDD|349309	CD2_tandem_CHD3-4_like	cd18662	repeat 2 of the paired tandem chromodomains of chromodomain helicase DNA-binding protein 3 and 4
+gnl|CDD|405563	PNMA	pfam14893	PNMA.  The PNMA family includes paraneoplastic antigens Ma 1
+gnl|CDD|411157	transpos_IS982	NF033520	IS982 family transposase.  Currently
+gnl|CDD|349323	chromodomain	cd18967	CHROMO (CHRromatin Organization Modifier) domain; uncharacterized subgroup.  The chromodomain is a conserved region of about 50 amino acids
+gnl|CDD|177733	PLN00121	PLN00121	histone H3; Provisional.
+gnl|CDD|411231	MSCRAMM_ClfA	NF033609	MSCRAMM family adhesin clumping factor ClfA.  Clumping factor A is an MSCRAMM (Microbial Surface Components Recognizing Adhesive Matrix Molecules). It is heavily studied in Staphylococcus aureus both for its biological role in adhesion and for its potential for vaccination. Features of the sequence
+gnl|CDD|280345	Peptidase_A3	pfam02160	Cauliflower mosaic virus peptidase (A3).
+gnl|CDD|411747	PDDEXK_lambda_exonuclease-like	cd22343	Uncharacterized nucleases similar to lambda phage exonuclease.  This model characterizes a diverse set of nucleases such as alkaline exonuclease from Laribacter hongkongensis
+gnl|CDD|401505	YqaJ	pfam09588	YqaJ-like viral recombinase domain.  This protein family is found in many different bacterial species but is of viral origin. The protein forms an oligomer and functions as a processive alkaline exonuclease that digests linear double-stranded DNA in a Mg(2+)-dependent reaction
+gnl|CDD|215597	PLN03137	PLN03137	ATP-dependent DNA helicase; Q4-like; Provisional.
+gnl|CDD|350181	SF2_C_RecQ	cd18794	C-terminal helicase domain of the RecQ family helicases.  The RecQ helicase family is an evolutionarily conserved class of enzymes
+gnl|CDD|350668	SF2-N	cd00046	N-terminal DEAD/H-box helicase domain of superfamily 2 helicases.  The DEAD/H-like superfamily 2 helicases comprise a diverse family of proteins involved in ATP-dependent RNA or DNA unwinding. This N-terminal domain contains the ATP-binding region.
+gnl|CDD|350679	DEXHc_Ski2	cd17921	DEXH-box helicase domain of DEAD-like helicase Ski2 family proteins.  Ski2-like RNA helicases play an important role in RNA degradation
+gnl|CDD|350681	DEXHc_Hrq1-like	cd17923	DEAH-box helicase domain of Hrq1 and similar proteins.  Yeast Hrq1
+gnl|CDD|214640	AAA	smart00382	ATPases associated with a variety of cellular activities.  AAA - ATPases associated with a variety of cellular activities. This profile/alignment only detects a fraction of this vast family. The poorly conserved N-terminal helix is missing from the alignment.
+gnl|CDD|185644	PTZ00465	PTZ00465	rhoptry-associated protein 1 (RAP-1); Provisional.
+gnl|CDD|224126	COG1205	COG1205	Distinct helicase family with a unique C-terminal domain including a metal-binding cysteine cluster [General function prediction only].
+gnl|CDD|404296	DUF4106	pfam13388	Protein of unknown function (DUF4106).  This family of proteins are found in large numbers in the Trichomonas vaginalis proteome. The function of this protein is unknown.
+gnl|CDD|139971	PRK13911	PRK13911	exodeoxyribonuclease III; Provisional.
+gnl|CDD|275371	ZF_C2H2	sd00020	Zinc finger
+gnl|CDD|203098	Plant_tran	pfam04827	Plant transposon protein.  This family contains plant transposases which are putative members of the PIF / Ping-Pong family.
+gnl|CDD|405060	NAM-associated	pfam14303	No apical meristem-associated C-terminal domain.  This domain is found in a number of different types of plant proteins including NAM-like proteins.
+gnl|CDD|406461	Mucin-like	pfam16058	Mucin-like.  This domain is found repeated at the C-terminus (C-tail) of bile salt-activated lipase
+gnl|CDD|276811	PPR	sd00004	Pentatricopeptide repeat
+gnl|CDD|405048	DUF4371	pfam14291	Domain of unknown function (DUF4371).
+gnl|CDD|407521	Tnp_22_dsRBD	pfam17490	L1 transposable element dsRBD-like domain.  This entry represents the double stranded RNA-binding-like domain.
+gnl|CDD|411206	transpos_IS5_4	NF033581	IS5 family transposase.
+gnl|CDD|376573	DDE_Tnp_1	pfam01609	Transposase DDE domain.  Transposase proteins are necessary for efficient DNA transposition. This domain is a member of the DDE superfamily
+gnl|CDD|404497	HTH_Tnp_4	pfam13613	Helix-turn-helix of DDE superfamily endonuclease.  This domain is the probable DNA-binding region of transposase enzymes
+gnl|CDD|395355	UCH	pfam00443	Ubiquitin carboxyl-terminal hydrolase.
+gnl|CDD|200235	hypothetical_protein	TIGR03033	putative phage-type endonuclease.  Members of this protein family are found often in phage genomes and in prokaryotic genomes in uncharacterized regions that resemble integrated prophage regions.
+gnl|CDD|396366	Herpes_alk_exo	pfam01771	Herpesvirus alkaline exonuclease.  This family includes various alkaline exonucleases from members of the herpesviridae. Alkaline exonuclease appears to have an important role in the replication of herpes simplex virus.
+gnl|CDD|239072	Peptidase_C19	cd02257	Peptidase C19 contains ubiquitinyl hydrolases. They are intracellular peptidases that remove ubiquitin molecules from polyubiquinated peptides by cleavage of isopeptide bonds. They hydrolyse bonds involving the carboxyl group of the C-terminal Gly residue of ubiquitin The purpose of the de-ubiquitination is thought to be editing of the ubiquitin conjugates
+gnl|CDD|275124	hypothetical_protein	TIGR04320	SEC10/PgrA surface exclusion domain.  This model describes a conserved domain found in surface proteins of a number of Firmutes. Many members have LPXTG C-terminal anchoring motifs and a substantial number have the KxYKxGKxW putative sorting signal at the N-terminus. The tetracycline resistance plasmid pCF10 in Enterococcus faecalis promotes conjugal plasmid transfer in response to sex pheromones
+gnl|CDD|234792	uvrC	PRK00558	excinuclease ABC subunit UvrC.
+gnl|CDD|237785	uvrC	PRK14671	excinuclease ABC subunit C; Provisional.
+gnl|CDD|183423	uvrC	PRK12306	excinuclease ABC subunit C; Reviewed.
+gnl|CDD|237782	uvrC	PRK14666	excinuclease ABC subunit C; Provisional.
+gnl|CDD|184785	uvrC	PRK14668	excinuclease ABC subunit C; Provisional.
+gnl|CDD|237784	uvrC	PRK14669	excinuclease ABC subunit C; Provisional.
+gnl|CDD|237783	uvrC	PRK14667	excinuclease ABC subunit C; Provisional.
+gnl|CDD|173133	uvrC	PRK14670	excinuclease ABC subunit C; Provisional.
+gnl|CDD|173135	uvrC	PRK14672	excinuclease ABC subunit C; Provisional.
+gnl|CDD|380948	SET_KMT2C_2D	cd19171	SET domain (including post-SET domain) found in histone-lysine N-methyltransferase 2C (KMT2C)
+gnl|CDD|380922	SET_Suv4-20-like	cd10524	SET domain (including post-SET domain) found in Drosophila melanogaster suppressor of variegation 4-20 (Suv4-20) and similar proteins.  Suv4-20 (also termed Su(var)4-20) is a histone-lysine N-methyltransferase that specifically trimethylates 'Lys-20' of histone H4. It acts as a dominant suppressor of position-effect variegation. The family also includes Suv4-20 homologs
+gnl|CDD|380960	SET_SpSET3-like	cd19183	SET domain (including post-SET domain) found in Schizosaccharomyces pombe SET domain-containing protein 3 (SETD3) and similar proteins.  Schizosaccharomyces pombe SETD3 functions as a transcriptional regulator that acts via the formation of large multiprotein complexes that modify and/or remodel the chromatin. It is required for both
+gnl|CDD|380952	SET_ASHR3-like	cd19175	SET domain (including post-SET domain) found in Arabidopsis thaliana ASH1-related protein 3 (ASHR3) and similar proteins.  This family includes Arabidopsis thaliana ASH1-related protein 3 (ASHR3
+gnl|CDD|380998	SET_SET1	cd20072	SET domain (including post-SET domain) found in catalytic component of the Saccharomyces cerevisiae COMPASS complex and similar proteins.  The family contains mostly fungal SET domains
+gnl|CDD|380985	SET_KMT2C	cd19208	SET domain (including post-SET domain) found in histone-lysine N-methyltransferase 2C (KMT2C) and similar proteins.  KMT2C (EC2.1.1.43; also termed lysine N-methyltransferase 2C
+gnl|CDD|380986	SET_KMT2D	cd19209	SET domain (including post-SET domain) found in histone-lysine N-methyltransferase 2D (KMT2D) and similar proteins.  KMT2D (EC2.1.1.43; also termed lysine N-methyltransferase 2D
+gnl|CDD|380988	SET_NSD2	cd19211	SET domain (including post-SET domain) found in nuclear SET domain-containing protein 2 (NSD2) and similar proteins.  NSD2 (EC 2.1.1.43; also termed multiple myeloma SET domain-containing protein (MMSET)
+gnl|CDD|380981	SET_SETD1A	cd19204	SET domain (including post-SET domain) found in SET domain-containing protein 1A (SETD1A) and similar proteins.  SETD1A (EC2.1.1.43)
+gnl|CDD|380950	SET_NSD	cd19173	SET domain (including post-SET domain) found in nuclear SET domain-containing proteins
+gnl|CDD|214739	ZnF_TTF	smart00597	zinc finger in transposases and transcription factors.
+gnl|CDD|198389	GIY-YIG_PLEs	cd10442	Catalytic GIY-YIG endonuclease domain of penelope-like elements and similar proteins.  This model corresponds to the EN domain of PLEs that contains catalytic module of the GIY-YIG endonucleases of group I bacterial/organellar introns
+gnl|CDD|404055	PPR_2	pfam13041	PPR repeat family.  This repeat has no known function. It is about 35 amino acids long and is found in up to 18 copies in some proteins. The family appears to be greatly expanded in plants and fungi. The repeat has been called PPR.
+gnl|CDD|273253	PPR	TIGR00756	pentatricopeptide repeat domain (PPR motif).  This model describes a domain called the PPR motif
+gnl|CDD|366695	PPR	pfam01535	PPR repeat.  This repeat has no known function. It is about 35 amino acids long and found in up to 18 copies in some proteins. This family appears to be greatly expanded in plants. This repeat occurs in PET309 that may be involved in RNA stabilisation. This domain occurs in crp1 that is involved in RNA processing. This repeat is associated with a predicted plant protein that has a domain organisation similar to the human BRCA1 protein. The repeat has been called PPR.
+gnl|CDD|224401	DnaC	COG1484	DNA replication protein [DNA replication
+gnl|CDD|99707	AAA	cd00009	The AAA+ (ATPases Associated with a wide variety of cellular Activities) superfamily represents an ancient group of ATPases belonging to the ASCE (for additional strand
+gnl|CDD|237546	PRK13889	PRK13889	conjugal transfer relaxase TraA; Provisional.
+gnl|CDD|239937	SoSSB_OBF	cd04491	SoSSB_OBF: A subfamily of OB folds similar to the OB fold of the crenarchaeote Sulfolobus solfataricus single-stranded (ss) DNA-binding protein (SSoSSB). SSoSSB has a single OB fold
+gnl|CDD|239926	RPA1_DBD_A_like	cd04480	RPA1_DBD_A_like: A subgroup of uncharacterized plant OB folds with similarity to the second OB fold
+gnl|CDD|145722	DUF223	pfam02721	Domain of unknown function DUF223.
+gnl|CDD|239922	RPA1_DBD_C	cd04476	RPA1_DBD_C: A subfamily of OB folds corresponding to the C-terminal OB fold
+gnl|CDD|398488	Herpes_teg_N	pfam04843	Herpesvirus tegument protein
+gnl|CDD|239927	RPA1_DBD_B_like	cd04481	RPA1_DBD_B_like: A subgroup of uncharacterized
+gnl|CDD|273726	unnamed_protein_product	TIGR01640	F-box protein interaction domain.  This model describes a large family of plant domains
+gnl|CDD|273177	Replication_protein_A_70_kDa_DNA-binding_subunit	TIGR00617	replication factor-a protein 1 (rpa1).  All proteins in this family for which functions are known are part of a multiprotein complex made up of homologs of RPA1
+gnl|CDD|400808	Rep_fac-A_C	pfam08646	Replication factor-A C terminal domain.  This domain is found at the C terminal of replication factor A. Replication factor A (RPA) binds single-stranded DNA and is involved in replication
+gnl|CDD|239920	RPA1_DBD_A	cd04474	RPA1_DBD_A: A subfamily of OB folds corresponding to the second OB fold
+gnl|CDD|239139	Peptidase_C19R	cd02674	A subfamily of peptidase C19. Peptidase C19 contains ubiquitinyl hydrolases. They are intracellular peptidases that remove ubiquitin molecules from polyubiquinated peptides by cleavage of isopeptide bonds. They hydrolyze bonds involving the carboxyl group of the C-terminal Gly residue of ubiquitin. The purpose of the de-ubiquitination is thought to be editing of the ubiquitin conjugates
+gnl|CDD|234679	pgi	PRK00179	glucose-6-phosphate isomerase; Reviewed.
+gnl|CDD|237608	pgi	PRK14095	glucose-6-phosphate isomerase; Provisional.
+gnl|CDD|381328	AKR_unchar	cd19102	uncharacterized aldo-keto reductase (AKR) superfamily protein.  This family includes a group of uncharacterized AKR superfamily proteins. Aldo-keto reductases (AKRs) are a superfamily of soluble NAD(P)(H) oxidoreductases whose chief purpose is to reduce aldehydes and ketones to primary and secondary alcohols. AKRs are present in all phyla and are of importance in both health and industrial applications.
+gnl|CDD|381331	AKR_unchar	cd19105	uncharacterized aldo-keto reductase (AKR) superfamily protein.  This family includes a group of uncharacterized AKR superfamily proteins. Aldo-keto reductases (AKRs) are a superfamily of soluble NAD(P)(H) oxidoreductases whose chief purpose is to reduce aldehydes and ketones to primary and secondary alcohols. AKRs are present in all phyla and are of importance in both health and industrial applications.
+gnl|CDD|381326	AKR_unchar	cd19100	uncharacterized aldo-keto reductase (AKR) superfamily protein.  This family includes a group of uncharacterized AKR superfamily proteins. Aldo-keto reductases (AKRs) are a superfamily of soluble NAD(P)(H) oxidoreductases whose chief purpose is to reduce aldehydes and ketones to primary and secondary alcohols. AKRs are present in all phyla and are of importance in both health and industrial applications.
+gnl|CDD|381330	AKR_unchar	cd19104	uncharacterized aldo-keto reductase (AKR) superfamily protein.  This family includes a group of uncharacterized AKR superfamily proteins. Aldo-keto reductases (AKRs) are a superfamily of soluble NAD(P)(H) oxidoreductases whose chief purpose is to reduce aldehydes and ketones to primary and secondary alcohols. AKRs are present in all phyla and are of importance in both health and industrial applications.
+gnl|CDD|381391	AKR_unchar	cd19752	uncharacterized aldo-keto reductase (AKR) superfamily protein.  This family includes a group of uncharacterized AKR superfamily proteins. Aldo-keto reductases (AKRs) are a superfamily of soluble NAD(P)(H) oxidoreductases whose chief purpose is to reduce aldehydes and ketones to primary and secondary alcohols. AKRs are present in all phyla and are of importance in both health and industrial applications.
+gnl|CDD|381327	AKR_unchar	cd19101	uncharacterized aldo-keto reductase (AKR) superfamily protein.  This family includes a group of uncharacterized AKR superfamily proteins. Aldo-keto reductases (AKRs) are a superfamily of soluble NAD(P)(H) oxidoreductases whose chief purpose is to reduce aldehydes and ketones to primary and secondary alcohols. AKRs are present in all phyla and are of importance in both health and industrial applications.
+gnl|CDD|238083	PP2Cc	cd00143	Serine/threonine phosphatases
+gnl|CDD|214625	PP2Cc	smart00332	Serine/threonine phosphatases
+gnl|CDD|275209	hypothetical_protein	TIGR04416	group II intron reverse transcriptase/maturase.  Members of this protein family are multifunctional proteins encoded in most examples of bacterial group II introns. These group II introns are mobile selfish genetic elements
+gnl|CDD|128645	PAX	smart00351	Paired Box domain.
+gnl|CDD|335217	FAR1	pfam03101	FAR1 DNA-binding domain.  This domain contains a WRKY like fold and is therefore most likely a zinc binding DNA-binding domain.
+gnl|CDD|214576	ZnMc	smart00235	Zinc-dependent metalloprotease.  Neutral zinc metallopeptidases. This alignment represents a subset of known subfamilies. Highest similarity occurs in the HExxH zinc-binding site/ active site.
+gnl|CDD|395507	HECT	pfam00632	HECT-domain (ubiquitin-transferase).  The name HECT comes from Homologous to the E6-AP Carboxyl Terminus.
+gnl|CDD|238033	HECTc	cd00078	HECT domain; C-terminal catalytic domain of a subclass of Ubiquitin-protein ligase (E3). It binds specific ubiquitin-conjugating enzymes (E2)
+gnl|CDD|214523	HECTc	smart00119	Domain Homologous to E6-AP Carboxyl Terminus with.  E3 ubiquitin-protein ligases. Can bind to E2 enzymes.
+gnl|CDD|366005	PAX	pfam00292	'Paired box' domain.
+gnl|CDD|238076	PAX	cd00131	Paired Box domain.
+gnl|CDD|411178	transpos_IS256	NF033543	IS256 family transposase.  Members of this family belong to the branch of the IS256-like family of transposases that includes the founding member. It excludes the IS1249 group.
+gnl|CDD|225865	COG3328	COG3328	Transposase and inactivated derivatives [DNA replication
+gnl|CDD|405141	zf-CCHC_4	pfam14392	Zinc knuckle.  The zinc knuckle is a zinc binding motif composed of the the following CX2CX4HX4C where X can be any amino acid. This particular family is found in plant proteins.
+gnl|CDD|400570	DUF1725	pfam08333	Protein of unknown function (DUF1725).  This family include many eukaryotic and one bacterial sequence. Many of its members are annotated as being putative L1 retrotransposons or LINE-1 reverse transcriptase homologs. The region in question is found repeated in some family members.
+gnl|CDD|275369	ZF_C2H2	sd00018	Zinc finger
+gnl|CDD|275087	hypothetical_protein	TIGR04260	rSAM-associated Gly-rich repeat protein.  Members of this protein family average 125 in length
+gnl|CDD|179685	PRK03957	PRK03957	V-type ATP synthase subunit F; Provisional.
+gnl|CDD|188231	conserved_hypothetical_protein	TIGR02531	TrpR-related protein YerC/YecD.  This model represents a protein subfamily found mostly in the Firmicutes (Bacillus and allies). This family is similar in sequence to the trp operon repressor TrpR described by TIGR01321
+gnl|CDD|404724	Peptidase_S74	pfam13884	Chaperone of endosialidase.  This is the very C-terminal
+gnl|CDD|238287	Lipase_3	cd00519	Lipase (class 3).  Lipases are esterases that can hydrolyze long-chain acyl-triglycerides into di- and monoglycerides
+gnl|CDD|225913	COG3378	COG3378	Phage associated DNA primase [General function prediction only].
+gnl|CDD|396362	Lipase_3	pfam01764	Lipase (class 3).
+gnl|CDD|130699	hypothetical_protein	TIGR01638	Arabidopsis thaliana cystatin-related protein.  This model represents a family similar in sequence and probably homologous to a large family of cysteine proteinase inhibitors
+gnl|CDD|394963	AAA	pfam00004	ATPase family associated with various cellular activities (AAA).  AAA family proteins often perform chaperone-like functions that assist in the assembly
+gnl|CDD|198390	GIY-YIG_HE_Tlr8p_PBC-V_like	cd10443	GIY-YIG domain of uncharacterized hypothetical protein found in phycodnavirus PBCV-1 DNA virus
+gnl|CDD|198384	GIY-YIG_HE_I-TevI_like	cd10437	N-terminal catalytic domain of GIY-YIG intron endonuclease I-TevI
+gnl|CDD|198380	GIY-YIG_SF	cd00719	GIY-YIG nuclease domain superfamily.  The GIY-YIG nuclease domain superfamily includes a large and diverse group of proteins involved in many cellular processes
+gnl|CDD|396222	GIY-YIG	pfam01541	GIY-YIG catalytic domain.  This domain called GIY-YIG is found in the amino terminal region of excinuclease abc subunit c (uvrC)
+gnl|CDD|367375	DNA_pol_B_2	pfam03175	DNA polymerase type B
+gnl|CDD|222879	PHA02563	PHA02563	DNA polymerase; Provisional.
+gnl|CDD|282513	Pox_A32	pfam04665	Poxvirus A32 protein.  The A32 protein is thought to be involved in viral DNA packaging.
+gnl|CDD|177693	PLN00062	PLN00062	TATA-box-binding protein; Provisional.
+gnl|CDD|225012	SPT15	COG2101	TATA-box binding protein (TBP)
+gnl|CDD|239954	TBP_archaea	cd04518	archaeal TATA box binding protein (TBP): TBPs are transcription factors present in archaea and eukaryotes
+gnl|CDD|239953	TLF	cd04517	TBP-like factors (TLF; also called TLP
+gnl|CDD|234746	PRK00394	PRK00394	transcription factor; Reviewed.
+gnl|CDD|395281	TBP	pfam00352	Transcription factor TFIID (or TATA-binding protein
+gnl|CDD|396692	PC4	pfam02229	Transcriptional Coactivator p15 (PC4).  p15 has a bipartite structure composed of an amino-terminal regulatory domain and a carboxy-terminal cryptic DNA-binding domain. The DNA-binding activity of the carboxy-terminal is disguised by the amino-terminal p15 domain. Activity is controlled by protein kinases that target the regulatory domain.
+gnl|CDD|290126	DUF4108	pfam13390	Protein of unknown function (DUF4108).  This family of putative proteins are found in Trichomonas vaginalis in large numbers. The function of this protein is unknown.
+gnl|CDD|222888	10	PHA02582	baseplate wedge subunit and tail pin; Provisional.
+gnl|CDD|398782	VirE	pfam05272	Virulence-associated protein E.  This family contains several bacterial virulence-associated protein E like proteins. These proteins contain a P-loop motif.
+gnl|CDD|400191	AAA_5	pfam07728	AAA domain (dynein-related subfamily).  This Pfam entry includes some of the AAA proteins not detected by the pfam00004 model.
+gnl|CDD|240129	Prim_Pol	cd04859	Prim_Pol: Primase-polymerase (primpol) domain of the type found in bifunctional replicases from archaeal plasmids
+gnl|CDD|285583	Parvo_coat_N	pfam08398	Parvovirus coat protein VP1.  This is the N-terminal region of the Parvovirus VP1 coat protein. Also see Parvovirus coat protein VP2 (pfam00740).
+gnl|CDD|408700	DUF5679	pfam18930	Domain of unknown function (DUF5679).  This family of domains is found in bacteria
+gnl|CDD|397205	Endonuclease_7	pfam02945	Recombination endonuclease VII.
+gnl|CDD|411702	Vsr	cd00221	Very short patch repair endonuclease.  Very short patch repair (Vsr) is an endonuclease functioning in DNA repair that recognizes damaged DNA and cleaves the phosphodiester backbone. Vsr endonucleases have a common endonuclease topology that has been tailored for recognition of TG mismatches. It belongs to a superfamily of nucleases including archaeal Holliday junction resolvases
+gnl|CDD|226250	Vsr	COG3727	DNA G:T-mismatch repair endonuclease [DNA replication
+gnl|CDD|402216	PP1c_bdg	pfam10488	Phosphatase-1 catalytic subunit binding region.  This conserved C-terminus appears to be a protein phosphatase-1 catalytic subunit (PP1C) binding region
+gnl|CDD|376797	Bro-N	pfam02498	BRO family
+gnl|CDD|214989	Bro-N	smart01040	BRO family
+gnl|CDD|181186	PRK07983	PRK07983	exodeoxyribonuclease X; Provisional.
+gnl|CDD|367917	KilA-N	pfam04383	KilA-N domain.  The amino-terminal module of the D6R/N1R proteins defines a novel
+gnl|CDD|372401	DUF3839	pfam12943	Protein of unknown function (DUF3839).  This is a family of uncharacterized proteins that are found in Trichomonas.
+gnl|CDD|372316	PTR	pfam12789	Phage tail repeat like.  This family largely contains proteins from the eukaryote Trichomonas vaginalis. These proteins contain multiple HXH repeats. Some proteins in this family are annotated as having phage tail repeats. The function of this family is unknown.
+gnl|CDD|223415	Dam	COG0338	Site-specific DNA methylase [DNA replication
+gnl|CDD|404298	HNH_3	pfam13392	HNH endonuclease.  This is a zinc-binding loop of Fold group 7 as found in endo-deoxy-ribonucleases and HNH nucleases.
+gnl|CDD|260017	Death	cd01670	Death Domain: a protein-protein interaction domain.  Death Domains (DDs) are protein-protein interaction domains found in a variety of domain architectures. Their common feature is that they form homodimers by self-association or heterodimers by associating with other members of the DD superfamily including CARD (Caspase activation and recruitment domain)
+gnl|CDD|395422	Death	pfam00531	Death domain.
+gnl|CDD|239805	ZnMc_MMP	cd04278	Zinc-dependent metalloprotease
+gnl|CDD|395334	Peptidase_M10	pfam00413	Matrixin.  The members of this family are enzymes that cleave peptides. These proteases require zinc for catalysis.
+gnl|CDD|239806	ZnMc_MMP_like_1	cd04279	Zinc-dependent metalloprotease; MMP_like sub-family 1. A group of bacterial
+gnl|CDD|239804	ZnMc_serralysin_like	cd04277	Zinc-dependent metalloprotease
+gnl|CDD|239796	ZnMc_MMP_like	cd04268	Zinc-dependent metalloprotease
+gnl|CDD|372588	DUF4107	pfam13389	Protein of unknown function (DUF4107).  This family of putative proteins are found in Trichomonas vaginalis in large numbers. The function of this protein is unknown.
+gnl|CDD|402257	T5orf172	pfam10544	T5orf172 domain.  This domain was identified by Iyer and colleagues.
+gnl|CDD|238124	ZnMc	cd00203	Zinc-dependent metalloprotease. This super-family of metalloproteases contains two major branches
+gnl|CDD|396175	PG_binding_1	pfam01471	Putative peptidoglycan binding domain.  This domain is composed of three alpha helices. This domain is found at the N or C-terminus of a variety of enzymes involved in bacterial cell wall degradation. This domain may have a general peptidoglycan binding function. This family is found N-terminal to the catalytic domain of matrixins. The domain is found to bind peptidoglycan experimentally.
+gnl|CDD|400054	Rho_N	pfam07498	Rho termination factor
+gnl|CDD|198027	Rho_N	smart00959	Rho termination factor
+gnl|CDD|279154	Peptidase_C5	pfam00770	Adenovirus endoprotease.  This family of adenovirus thiol endoproteases specifically cleave Gly-Ala peptides in viral precursor peptides.
+gnl|CDD|117570	DUF1891	pfam09004	Domain of unknown function (DUF1891).  This domain is found in a set of hypothetical eukaryotic proteins.
+gnl|CDD|397576	HGWP	pfam03578	HGWP repeat.  This short (30 amino acids) repeat is found in a number of plant proteins. It contains a conserved HGWP motif
