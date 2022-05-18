@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+dfam_word_cloud.svg
+only_suspicious_compiled.fasta_split_seq_list.txt
+out
+seq
+test_getopts.sh
