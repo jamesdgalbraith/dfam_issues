@@ -52,4 +52,7 @@ find . -mindepth 2 -name "${QUERY}_seq_*" -delete
 find . -name "${QUERY}*.2.7.7.80.10.50.500.dat" -delete
 rm ${QUERY}_split_seq_list.txt
 
+# run clean up Rscript
+Rscript cleanup.R -file ${QUERY}
+
 echo "all done"
