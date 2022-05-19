@@ -7,3 +7,6 @@ only_suspicious_compiled.fasta_split_seq_list.txt
 out
 seq
 test_getopts.sh
+Rplot.svg
+dfam_aphids.fasta
+to_run.txt
