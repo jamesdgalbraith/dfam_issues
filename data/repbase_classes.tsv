@@ -1,0 +1,346 @@
+rb_class	rb_subclass
+LTR	Gypsy
+LTR	Copia
+DNA	hAT
+DNA	Mariner/Tc1
+LTR	BEL
+DNA	DNA transposon
+LTR	ERV1
+LINE	L1
+DNA	MuDR
+DNA	Harbinger
+LTR	ERV2
+RC	Helitron
+DNA	EnSpm/CACTA
+LINE	CR1
+LTR	ERV3
+LTR	LTR Retrotransposon
+LTR	DIRS
+SINE	SINE2/tRNA
+LINE	RTE
+LINE	Penelope
+DNA	piggyBac
+LINE	Tad1
+DNA	Kolobok
+DNA	Academ
+LTR	Endogenous Retrovirus
+LINE	Tx1
+LINE	L2
+Satellite	SAT
+LINE	Jockey
+LINE	R1
+Unknown	Transposable Element
+LINE	Daphne
+Satellite	Satellite
+DNA	P
+LINE	I
+LTR	ERV4
+Virus	Caulimoviridae
+LINE	Non-LTR Retrotransposon
+DNA	ISL2EU
+LINE	R2
+LINE	Vingi
+LINE	RTEX
+RC	Polinton
+DNA	Transib
+LINE	Crack
+LINE	Rex1
+LINE	NeSL
+LINE	Nimb
+SINE	SINE
+DNA	Sola1
+tRNA	tRNA
+SINE	SINE1/7SL
+DNA	Sola2
+LINE	Kiri
+DNA	Merlin
+Satellite	MSAT
+DNA	Crypton
+LINE	Loa
+DNA	Zator
+Unknown	Repetitive element
+Simple_repeat	Simple Repeat
+DNA	CryptonS
+DNA	CryptonV
+LINE	R4
+Unknown	Nonautonomous
+LINE	Proto2
+DNA	Dada
+LINE	CRE
+DNA	IS3EU
+Gene	Multicopy gene
+DNA	Sola3
+DNA	Zisupton
+DNA	Ginger1
+DNA	Ginger2/TDD
+SINE	SINE3/5S
+LINE	L2B
+rRNA	rRNA
+LINE	Hero
+DNA	CryptonF
+LINE	Outcast
+LINE	Ingi
+DNA	CryptonA
+SINE	SINEU/snRNA
+Unknown	Repetitive sequence
+snRNA	snRNA
+LINE	RandI
+Virus	DNA Virus
+DNA	CryptonI
+DNA	Novosib
+LINE	Ambal
+LINE	Proto1
+Unknown	conserved
+LINE	L2A
+ERV	endogenous retrovirus
+Virus	Lentivirus
+Unknown	Repeat region
+Unknown	2109A repetitive sequence
+LTR	CoeEFV-LTR
+Unknown	Dispersed repeat
+LTR	ERV-2_PM-I
+Unknown	Interspersed repeat
+DNA	MITE
+DNA	OFU85403
+Unknown	Ribosomal intergenic spacer
+Unknown	tandem repeat
+Unknown	transposon
+Unknown	(CA)n related
+Unknown	5S_DM
+Unknown	5SrRNA_AN
+Unknown	AFRP1
+Unknown	ALAD
+Unknown	ALBAMH1
+Unknown	AlKe1_AL
+Unknown	AlKe6_AL
+Unknown	AMTAM2
+Unknown	APO1_AP
+Unknown	APO2_AP
+Unknown	ARS_TA
+Unknown	ARS406
+Unknown	AT-rich DNA repeat
+Unknown	ATREP18
+Unknown	ATREP19
+Unknown	AVIXHoI
+Unknown	AY1 repetitive sequence
+Unknown	BamHI repetitive sequence
+Unknown	BDDF1
+Unknown	BHIKHARI_I
+Unknown	BMRP1
+Unknown	BNTAN
+Unknown	BR6_CP
+Unknown	BstUI repeat
+Unknown	C_OC
+Unknown	CAM2_GG
+Unknown	CARO_CA
+Unknown	CCRP1
+Unknown	CEHAE
+Unknown	CEN1_SP
+Unknown	CENSTRIG
+Unknown	CEREP3
+Unknown	CEREP4
+Unknown	CEREP5
+Unknown	CERP1
+Unknown	CERP16
+Unknown	CERP2
+Unknown	CERP3
+Unknown	CERP4
+Unknown	CEU86951
+DNA	Charlie-Galluhop
+Unknown	CMREP
+Unknown	CPTAN
+Unknown	CRTOC1
+Unknown	CSP2034
+Unknown	CSP2090
+Unknown	CSP2111
+Unknown	CSP2112
+Unknown	D1100 family
+Unknown	D88I
+Unknown	DDTDD
+Unknown	DEC1_DS
+Unknown	direct repeat
+Unknown	DMFTZ
+Unknown	DMFUSHI
+Unknown	DMHETRP
+Unknown	DMHMR1
+Unknown	DMHMR2
+Unknown	DRB_RN
+Unknown	EcoR1 repeat region
+Unknown	EcoRI family
+Unknown	ECORI_Hm
+Unknown	Ed_ERE1
+Unknown	EHINV1
+Unknown	EHINV2
+Unknown	ERACSI34_EA
+Unknown	ERASCI228
+Unknown	ERV-1_PM-I
+Unknown	Eutr1
+Unknown	Eutr10
+Unknown	Eutr11
+Unknown	Eutr12
+Unknown	Eutr13
+Unknown	Eutr14
+Unknown	Eutr15
+Unknown	Eutr16
+Unknown	Eutr18
+Unknown	Eutr2
+Unknown	Eutr3
+Unknown	Eutr4
+Unknown	Eutr5
+Unknown	Eutr6
+Unknown	Eutr9
+Unknown	EUTREP11
+Unknown	EUTREP12
+Unknown	EUTREP14
+Unknown	EUTREP15
+Unknown	EUTREP16
+Unknown	EUTREP2
+Unknown	EUTREP4
+Unknown	EUTREP5
+Unknown	EUTREP6
+Unknown	EUTREP7
+Unknown	EUTREP8
+Unknown	FPREP1
+Unknown	FR1
+Unknown	FUGUREP4B
+Unknown	GISH1_AC
+Unknown	GPRP1
+Unknown	GQRP1
+Unknown	HHA1_BT
+Unknown	HHAI
+Unknown	HIND3_MS
+Unknown	HSFAU
+Unknown	HTE1
+Unknown	IKIRARA1
+Virus	Integrated Virus
+Virus	Internal sequence of mouse VL30 retro-element
+Unknown	Interspersed repetitive sequence
+Unknown	Inverted repeat
+Unknown	IR4
+Unknown	ISFUN1
+Unknown	JH12_XL
+Unknown	KER
+Unknown	KRISPIE
+Unknown	LADON_TA
+Unknown	LARP1
+Unknown	LARP2
+Unknown	LARRP1
+Unknown	LDRP1
+Unknown	LDRP2
+Unknown	LGRP1
+Unknown	LIRP1
+Unknown	LMRP1
+LTR	Long terminal repeat
+Unknown	LR9A
+LTR	LTR retrotransposon
+LTR	LTR-775_Gav_odd
+Unknown	LVU1
+Unknown	Male-specific DNA
+Unknown	MARE11
+Unknown	MARE4
+Unknown	MARE8
+Unknown	MARE9
+Unknown	MBOI
+Unknown	MCMREP
+Unknown	MER122
+Unknown	MER22
+Unknown	MER35
+Unknown	MINEX_Le
+DNA	miniature inverted repeat
+Unknown	Minicircle
+Unknown	MINIME_DN
+Unknown	MSRBMI
+Unknown	OARP1
+Unknown	OOREP1
+Unknown	Origin of replication
+Unknown	OVRP1
+DNA	P-element
+Unknown	PAT
+Unknown	PEN1
+Unknown	PEN2
+Unknown	PEN4
+Unknown	PENT_PU
+Unknown	PFH76
+Unknown	PFRP1
+Unknown	PFRP3
+Unknown	PFRP5
+Unknown	pSOS family
+Unknown	PTR_XL
+Unknown	R1A_SS
+Unknown	R1B_DS
+Unknown	R1B_SS
+Unknown	RC14
+Unknown	RCH2
+Unknown	RCS5
+Unknown	Rep-1_AT
+Unknown	REP-1_ATr
+Unknown	REP-1_Croc
+Unknown	REP-1_EL
+Unknown	REP-1_HM
+Unknown	REP-1_HMM
+Unknown	REP-1_OL
+Unknown	REP-1_OS
+Unknown	REP-1_PXu
+Unknown	REP-10_CPB
+Unknown	REP-10_OS
+Unknown	REP-11_CPB
+Unknown	REP-13_CPB
+Unknown	REP-15_CPB
+Unknown	REP-17_CPB
+Unknown	REP-18_CPB
+Unknown	REP-19_CPB
+Unknown	REP-2_CCri
+Unknown	REP-2_CPB
+Unknown	REP-21_CPB
+Unknown	REP-22_CPB
+Unknown	REP-23_CPB
+Unknown	REP-24_CPB
+Unknown	REP-28_CPB
+Unknown	REP-29_CPB
+Unknown	REP-3_CPB
+Unknown	REP-31_CPB
+Unknown	REP-32_CPB
+Unknown	REP-33_CPB
+Unknown	REP-33B_CPB
+Unknown	REP-35_CPB
+Unknown	REP-36_CPB
+Unknown	REP-540_Croc
+Unknown	REP-6_CPB
+Unknown	Repeat DNA
+Unknown	Repetitive DNA
+Unknown	RMER1
+Unknown	RMER1C
+Unknown	RP1_GL
+Unknown	RP2_HV
+Unknown	RP5S
+Unknown	RS3 repeat region
+Unknown	RSAI
+Unknown	RTETP
+Unknown	SAL_CL
+Unknown	satellite
+Unknown	SAU3A_TR
+Unknown	SCAI_EH
+Unknown	SCAR_MA
+Unknown	SCAR_MI
+Unknown	short interspersed element
+Unknown	SIRE
+Unknown	SNAPBACK_TC
+Unknown	STR47
+Unknown	STREPB_FA
+Unknown	STREPE_PF
+Unknown	STTREP_Mp
+Unknown	SZ23_TC
+Unknown	TANDREP_TG
+Unknown	Tcn760
+Unknown	TELREP_AG
+Unknown	TLH-1_CCri
+Unknown	TLH-1B_CCri
+Unknown	TLH-2_CCri
+Unknown	TREP_CE
+Unknown	TREP16
+Unknown	TREP17
+Unknown	VADER
+Unknown	VEGE_DW
+Unknown	XbaI
+Unknown	Y chromosome
+Unknown	Y' element
