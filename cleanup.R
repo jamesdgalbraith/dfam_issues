@@ -1,5 +1,5 @@
 # Import librarires
-library(optparse, quietly = T, warn.conflicts = F)
+library(optparse, quietly = T)
 
 # Get optparse
 option_list = list(
@@ -14,15 +14,15 @@ opt_parser = OptionParser(option_list=option_list)
 opt = parse_args(opt_parser)
 
 # # for testing
-# opt <- list(file = "seq/aves.fasta")
+# opt <- list(file = "seq/cleaned_Echis_RepeatModeler.fasta")
 
 if(is.null(opt$file)){
   stop("Input file must be provided.")
 }
 
-library(tidyverse, quietly = T, warn.conflicts = F)
-library(plyranges, quietly = T, warn.conflicts = F)
-library(BSgenome, quietly = T, warn.conflicts = F)
+library(tidyverse, quietly = T, warn.conflicts = F, verbose = F)
+library(plyranges, quietly = T, warn.conflicts = F, verbose = F)
+library(BSgenome, quietly = T, warn.conflicts = F, verbose = F)
 
 
 if (grepl("seq/", opt$file)){
@@ -170,7 +170,8 @@ likely_trash <- base::unique(c(definately_bad_domains$seqnames,
 
 # good seqs a) do not contain only suspicious domains b) do not contain definately bad domains c) are less than 20% "N" and are less than 50% tandem repeat
 good_seqs <- combined_library[!sub(" .*", "", names(combined_library)) %in% likely_trash]
-trash_seq <- combined_library[sub(" .*", "", names(combined_library)) %in% definately_bad_domains$seqnames]
+trash_seq <- combined_library[sub(" .*", "", names(combined_library)) %in% c(definately_bad_domains$seqnames,
+                                                                             rps_blast_out_only_suspicious$seqnames)]
 
 # write to file
 writeXStringSet(good_seqs, paste0("out/cleaned_", opt$file))
