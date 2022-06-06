@@ -1,8 +1,5 @@
 # Import librarires
-library(tidyverse)
-library(plyranges)
-library(BSgenome)
-library(optparse)
+library(optparse, quietly = T, warn.conflicts = F)
 
 # Get optparse
 option_list = list(
@@ -17,30 +14,38 @@ opt_parser = OptionParser(option_list=option_list)
 opt = parse_args(opt_parser)
 
 # # for testing
-# opt <- list(file = "seq/dfam_Hemiptera.fasta", dfam = FALSE)
+# opt <- list(file = "seq/aves.fasta")
 
 if(is.null(opt$file)){
   stop("Input file must be provided.")
 }
+
+library(tidyverse, quietly = T, warn.conflicts = F)
+library(plyranges, quietly = T, warn.conflicts = F)
+library(BSgenome, quietly = T, warn.conflicts = F)
+
 
 if (grepl("seq/", opt$file)){
   opt$file <- sub("seq/", "", opt$file)
 }
 
 # Read in and preprocess all data
-combined_library <- readDNAStringSet(paste0("seq/", opt$file))
-repbase_library <- readDNAStringSet("/media/projectDrive_1/databases/repbase/RepBase5May2021.fasta")
-repbase_classes <- read_tsv("data/repbase_classes.tsv")
+combined_library <- suppressMessages(readDNAStringSet(paste0("seq/", opt$file)))
+repbase_library <- suppressMessages(readDNAStringSet("/media/projectDrive_1/databases/repbase/RepBase5May2021.fasta"))
+repbase_classes <- read_tsv("data/repbase_classes.tsv", show_col_types = F)
 trf_out_ranges <- read_gff3(paste0("data/", opt$file, ".trf.gff"))
 rps_blast_out <- read_tsv(file = paste0("data/", opt$file, ".rps.out"),
                           col_names = c("seqnames", "qstart", "qend", "qlen", "sseqid", "sstart", "send", "slen",
-                                        "pident", "length", "mismatch", "gapopen", "evalue", "bitscore", "qcovs", "stitle")) %>%
+                                        "pident", "length", "mismatch", "gapopen", "evalue", "bitscore", "qcovs", "stitle"),
+                          show_col_types = F) %>%
   separate(stitle, into = c("ref", "abbrev", "full"), sep = ", ")
 repbase_blast_out <- read_tsv(file = paste0("data/", opt$file, ".repbase.out"),
                               col_names = c("seqnames", "qstart", "qend", "qlen", "rb_ref", "sstart", "send", "slen",
-                                            "pident", "length", "mismatch", "gapopen", "evalue", "bitscore", "qcovs")) %>%
+                                            "pident", "length", "mismatch", "gapopen", "evalue", "bitscore", "qcovs"),
+                              show_col_types = F) %>%
   dplyr::filter(evalue <= 1e-50)
-suitable_domains <- read_tsv("data/suitable_domains.tsv", col_names = c("sseqid", "ref", "abbrev", "full"))
+suitable_domains <- read_tsv("data/suitable_domains.tsv", col_names = c("sseqid", "ref", "abbrev", "full"),
+                             show_col_types = F)
 
 # Tabulate repbase
 repbase_library_tbl <- as_tibble(as.data.frame(names(repbase_library))) %>%
@@ -60,7 +65,7 @@ combined_library_tbl <- tibble(seqnames = sub(" .*", "", names(combined_library)
 # DFAM specific filter
 if(opt$dfam == T){
   
-  dfam_list <- read_tsv("data/Dfam.3.2.seq_list.txt", col_names = "seqnames")
+  dfam_list <- read_tsv("data/Dfam.3.2.seq_list.txt", col_names = "seqnames", show_col_types = F)
   combined_library <- combined_library[sub("#.*", "", names(combined_library)) %in% dfam_list$seqnames]
   
   # determine species
@@ -157,12 +162,16 @@ too_much_nothingness <- as_tibble(alphabetFrequency(combined_library)) %>%
          seqnames = names(combined_library)) %>%
   filter(N >= 0.5*total)
 
+likely_trash <- base::unique(c(definately_bad_domains$seqnames,
+                               rps_blast_out_only_suspicious$seqnames, 
+                               sub(" .*", "", too_much_nothingness$seqnames),
+                               combined_library_tbl_tr[combined_library_tbl_tr$tr_prop > 0.5 &
+                                                         !grepl(pattern = "Satellite", x = combined_library_tbl_tr$seqnames),]$seqnames))
+
 # good seqs a) do not contain only suspicious domains b) do not contain definately bad domains c) are less than 20% "N" and are less than 50% tandem repeat
-good_seqs <- combined_library[!sub(" .*", "", names(combined_library)) %in% c(definately_bad_domains$seqnames,
-                                                              rps_blast_out_only_suspicious$seqnames, 
-                                                              too_much_nothingness$seqnames,
-                                                              combined_library_tbl_tr[combined_library_tbl_tr$tr_prop > 0.5 &&
-                                                                                        !grepl("Satellite", names(combined_library_tbl_tr)),]$seqnames)]
+good_seqs <- combined_library[!sub(" .*", "", names(combined_library)) %in% likely_trash]
+trash_seq <- combined_library[sub(" .*", "", names(combined_library)) %in% definately_bad_domains$seqnames]
 
 # write to file
 writeXStringSet(good_seqs, paste0("out/cleaned_", opt$file))
+writeXStringSet(trash_seq, paste0("out/trash_", opt$file))
