@@ -167,30 +167,32 @@ too_much_nothingness <- as_tibble(alphabetFrequency(combined_library)) %>%
   filter(N >= 0.5*total)
 
 # determine additional chimeric which need masking based on having both > 50% repbase coverage and hits to bad domains
-chimeric <- base::unique(rps_blast_out_chimeric$seqnames)
+chimeric <- c(base::unique(rps_blast_out_only_suspicious[rps_blast_out_only_suspicious$seqnames %in% best_repbase_blast_out[best_repbase_blast_out$coverage > 0.5,]$seqnames,]$seqnames),
+              base::unique(definately_bad_domains[definately_bad_domains$seqnames %in% best_repbase_blast_out[best_repbase_blast_out$coverage > 0.5,]$seqnames,]$seqnames),
+              base::unique(rps_blast_out_chimeric$seqnames))
 
 # determine definitely bad
 trash_list <- base::unique(c(definately_bad_domains$seqnames, rps_blast_out_only_suspicious$seqnames))
 trash_list <- trash_list[!trash_list %in% chimeric]
 
 # determine good seqs
-draft_good_seq <- sub(" .*", "", names(combined_library))
-draft_good_seq[!draft_good_seq %in% c(trash_list, chimeric,
-                                      sub(" .*", "", too_much_nothingness$seqnames))]
+draft_good_list <- sub(" .*", "", names(combined_library))
+draft_good_list <- draft_good_list[!draft_good_list %in% c(trash_list, chimeric,
+                                                           sub(" .*", "", too_much_nothingness$seqnames))]
 
 # good seqs a) do not contain only suspicious domains b) do not contain definately bad domains c) are less than 20% "N" and are less than 50% tandem repeat
 squeaky_seqs <- combined_library[sub(" .*", "", names(combined_library)) %in%
                                    rps_blast_out_only_suitable$seqnames]
 chimeric_seqs <- combined_library[sub(" .*", "", names(combined_library)) %in% chimeric]
-good_seqs <- combined_library[!sub(" .*", "", names(combined_library)) %in% likely_trash]
+good_seqs <- combined_library[sub(" .*", "", names(combined_library)) %in% draft_good_list]
 trash_seq <- combined_library[sub(" .*", "", names(combined_library)) %in% trash_list]
 
 oddly_unknown_seqs <- combined_library[sub(" .*", "", names(combined_library)) %in%
                                          oddly_unknown$seqnames]
 
 # write to file
-writeXStringSet(squeaky_seqs, paste0("out/squeaky_", opt$file))
-writeXStringSet(chimeric_seqs, paste0("out/chimeric_", opt$file))
-writeXStringSet(good_seqs, paste0("out/cleaned_", opt$file))
-writeXStringSet(trash_seq, paste0("out/trash_", opt$file))
-writeXStringSet(oddly_unknown_seqs, paste0("out/oddly_unknown_", opt$file))
+writeXStringSet(squeaky_seqs, paste0("out/squeaky_rb_", opt$file))
+writeXStringSet(chimeric_seqs, paste0("out/chimeric_rb_", opt$file))
+writeXStringSet(good_seqs, paste0("out/cleaned_rb_", opt$file))
+writeXStringSet(trash_seq, paste0("out/trash_rb_", opt$file))
+writeXStringSet(oddly_unknown_seqs, paste0("out/oddly_unknown_rb_", opt$file))
